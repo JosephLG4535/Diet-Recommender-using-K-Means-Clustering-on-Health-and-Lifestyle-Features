@@ -1,0 +1,2619 @@
+age,quality_of_sleep,physical_activity_level,stress_level,heart_rate,daily_steps,MAP,bmi_encoded,cluster,example_recommendation,diet_recommendation
+27,6,42,6,77,4200,97.33333333333333,2,2,"Breakfast: whole-grain toast + scrambled eggs + spinach
+Lunch: chicken / tofu bowl with brown rice + steamed vegetables
+Snack: banana + almonds
+Dinner: grilled white fish + light vegetable soup","Breakfast: whole-grain toast + scrambled eggs + spinach
+Lunch: chicken / tofu bowl with brown rice + steamed vegetables
+Snack: banana + almonds
+Dinner: grilled white fish + light vegetable soup"
+28,6,60,8,75,10000,95.0,0,2,"Breakfast: 0atmeal + berries + nuts
+Lunch: grilled fish + steamed vegetables + brown rice
+Snack: fresh fruits + nuts
+Dinner: stir-fried meat + light stir_fried vegetables / tofu + brown rice","Breakfast: 0atmeal + berries + nuts
+Lunch: grilled fish + steamed vegetables + brown rice
+Snack: fresh fruits + nuts
+Dinner: stir-fried meat + light stir_fried vegetables / tofu + brown rice"
+28,6,60,8,75,10000,95.0,0,2,"Breakfast: 0atmeal + berries + nuts
+Lunch: grilled fish + steamed vegetables + brown rice
+Snack: fresh fruits + nuts
+Dinner: stir-fried meat + light stir_fried vegetables / tofu + brown rice","Breakfast: 0atmeal + berries + nuts
+Lunch: grilled fish + steamed vegetables + brown rice
+Snack: fresh fruits + nuts
+Dinner: stir-fried meat + light stir_fried vegetables / tofu + brown rice"
+28,4,30,8,85,3000,106.66666666666666,1,2,"Breakfast: oatmeal + sliced banana + chia seeds
+Lunch: steamed fish + steamed broccoli and carrots + brown rice
+Snack: greek yogurt + berries +walnuts
+Dinner: stir-fried tofu with spinach / mushrooms + sweet potato","Breakfast: oatmeal + sliced banana + chia seeds
+Lunch: steamed fish + steamed broccoli and carrots + brown rice
+Snack: greek yogurt + berries +walnuts
+Dinner: stir-fried tofu with spinach / mushrooms + sweet potato"
+28,4,30,8,85,3000,106.66666666666666,1,2,"Breakfast: oatmeal + sliced banana + chia seeds
+Lunch: steamed fish + steamed broccoli and carrots + brown rice
+Snack: greek yogurt + berries +walnuts
+Dinner: stir-fried tofu with spinach / mushrooms + sweet potato","Breakfast: oatmeal + sliced banana + chia seeds
+Lunch: steamed fish + steamed broccoli and carrots + brown rice
+Snack: greek yogurt + berries +walnuts
+Dinner: stir-fried tofu with spinach / mushrooms + sweet potato"
+28,4,30,8,85,3000,106.66666666666666,1,2,"Breakfast: oatmeal + sliced banana + chia seeds
+Lunch: steamed fish + steamed broccoli and carrots + brown rice
+Snack: greek yogurt + berries +walnuts
+Dinner: stir-fried tofu with spinach / mushrooms + sweet potato","Breakfast: oatmeal + sliced banana + chia seeds
+Lunch: steamed fish + steamed broccoli and carrots + brown rice
+Snack: greek yogurt + berries +walnuts
+Dinner: stir-fried tofu with spinach / mushrooms + sweet potato"
+29,6,40,7,82,3500,106.66666666666666,1,2,"Breakfast: oatmeal + sliced banana + chia seeds
+Lunch: steamed fish + steamed broccoli and carrots + brown rice
+Snack: greek yogurt + berries +walnuts
+Dinner: stir-fried tofu with spinach / mushrooms + sweet potato","Breakfast: oatmeal + sliced banana + chia seeds
+Lunch: steamed fish + steamed broccoli and carrots + brown rice
+Snack: greek yogurt + berries +walnuts
+Dinner: stir-fried tofu with spinach / mushrooms + sweet potato"
+29,7,75,6,70,8000,93.33333333333333,0,0,"Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables","Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables"
+29,7,75,6,70,8000,93.33333333333333,0,0,"Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables","Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables"
+29,7,75,6,70,8000,93.33333333333333,0,0,"Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables","Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables"
+29,6,30,8,70,8000,93.33333333333333,0,2,"Breakfast: whole-grain toast + scrambled eggs + spinach
+Lunch: chicken / tofu bowl with brown rice + steamed vegetables
+Snack: banana + almonds
+Dinner: grilled white fish + light vegetable soup","Breakfast: whole-grain toast + scrambled eggs + spinach
+Lunch: chicken / tofu bowl with brown rice + steamed vegetables
+Snack: banana + almonds
+Dinner: grilled white fish + light vegetable soup"
+29,7,75,6,70,8000,93.33333333333333,0,0,"Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables","Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables"
+29,6,30,8,70,8000,93.33333333333333,0,2,"Breakfast: whole-grain toast + scrambled eggs + spinach
+Lunch: chicken / tofu bowl with brown rice + steamed vegetables
+Snack: banana + almonds
+Dinner: grilled white fish + light vegetable soup","Breakfast: whole-grain toast + scrambled eggs + spinach
+Lunch: chicken / tofu bowl with brown rice + steamed vegetables
+Snack: banana + almonds
+Dinner: grilled white fish + light vegetable soup"
+29,6,30,8,70,8000,93.33333333333333,0,2,"Breakfast: whole-grain toast + scrambled eggs + spinach
+Lunch: chicken / tofu bowl with brown rice + steamed vegetables
+Snack: banana + almonds
+Dinner: grilled white fish + light vegetable soup","Breakfast: whole-grain toast + scrambled eggs + spinach
+Lunch: chicken / tofu bowl with brown rice + steamed vegetables
+Snack: banana + almonds
+Dinner: grilled white fish + light vegetable soup"
+29,6,30,8,70,8000,93.33333333333333,0,2,"Breakfast: whole-grain toast + scrambled eggs + spinach
+Lunch: chicken / tofu bowl with brown rice + steamed vegetables
+Snack: banana + almonds
+Dinner: grilled white fish + light vegetable soup","Breakfast: whole-grain toast + scrambled eggs + spinach
+Lunch: chicken / tofu bowl with brown rice + steamed vegetables
+Snack: banana + almonds
+Dinner: grilled white fish + light vegetable soup"
+29,6,30,8,70,8000,93.33333333333333,0,2,"Breakfast: whole-grain toast + scrambled eggs + spinach
+Lunch: chicken / tofu bowl with brown rice + steamed vegetables
+Snack: banana + almonds
+Dinner: grilled white fish + light vegetable soup","Breakfast: whole-grain toast + scrambled eggs + spinach
+Lunch: chicken / tofu bowl with brown rice + steamed vegetables
+Snack: banana + almonds
+Dinner: grilled white fish + light vegetable soup"
+29,5,40,7,80,4000,102.0,0,2,"Breakfast: oatmeal + sliced banana + chia seeds
+Lunch: steamed fish + steamed broccoli and carrots + brown rice
+Snack: greek yogurt + berries +walnuts
+Dinner: stir-fried tofu with spinach / mushrooms + sweet potato","Breakfast: oatmeal + sliced banana + chia seeds
+Lunch: steamed fish + steamed broccoli and carrots + brown rice
+Snack: greek yogurt + berries +walnuts
+Dinner: stir-fried tofu with spinach / mushrooms + sweet potato"
+29,6,30,8,70,8000,93.33333333333333,0,2,"Breakfast: whole-grain toast + scrambled eggs + spinach
+Lunch: chicken / tofu bowl with brown rice + steamed vegetables
+Snack: banana + almonds
+Dinner: grilled white fish + light vegetable soup","Breakfast: whole-grain toast + scrambled eggs + spinach
+Lunch: chicken / tofu bowl with brown rice + steamed vegetables
+Snack: banana + almonds
+Dinner: grilled white fish + light vegetable soup"
+29,5,40,7,80,4000,102.0,0,2,"Breakfast: oatmeal + sliced banana + chia seeds
+Lunch: steamed fish + steamed broccoli and carrots + brown rice
+Snack: greek yogurt + berries +walnuts
+Dinner: stir-fried tofu with spinach / mushrooms + sweet potato","Breakfast: oatmeal + sliced banana + chia seeds
+Lunch: steamed fish + steamed broccoli and carrots + brown rice
+Snack: greek yogurt + berries +walnuts
+Dinner: stir-fried tofu with spinach / mushrooms + sweet potato"
+30,7,75,6,70,8000,93.33333333333333,0,0,"Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables","Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables"
+30,7,75,6,70,8000,93.33333333333333,0,0,"Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables","Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables"
+30,7,75,6,70,8000,93.33333333333333,0,0,"Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables","Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables"
+30,7,75,6,70,8000,93.33333333333333,0,0,"Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables","Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables"
+30,7,75,6,70,8000,93.33333333333333,0,0,"Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables","Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables"
+30,7,75,6,70,8000,93.33333333333333,0,0,"Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables","Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables"
+30,7,75,6,70,8000,93.33333333333333,0,0,"Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables","Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables"
+30,7,75,6,70,8000,93.33333333333333,0,0,"Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables","Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables"
+30,7,75,6,70,8000,93.33333333333333,0,0,"Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables","Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables"
+30,7,75,6,70,8000,93.33333333333333,0,0,"Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables","Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables"
+30,7,75,6,70,8000,93.33333333333333,0,0,"Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables","Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables"
+30,5,35,7,78,4100,100.66666666666667,0,2,"Breakfast: oatmeal + sliced banana + chia seeds
+Lunch: steamed fish + steamed broccoli and carrots + brown rice
+Snack: greek yogurt + berries +walnuts
+Dinner: stir-fried tofu with spinach / mushrooms + sweet potato","Breakfast: oatmeal + sliced banana + chia seeds
+Lunch: steamed fish + steamed broccoli and carrots + brown rice
+Snack: greek yogurt + berries +walnuts
+Dinner: stir-fried tofu with spinach / mushrooms + sweet potato"
+30,5,35,7,78,4100,100.66666666666667,0,2,"Breakfast: oatmeal + sliced banana + chia seeds
+Lunch: steamed fish + steamed broccoli and carrots + brown rice
+Snack: greek yogurt + berries +walnuts
+Dinner: stir-fried tofu with spinach / mushrooms + sweet potato","Breakfast: oatmeal + sliced banana + chia seeds
+Lunch: steamed fish + steamed broccoli and carrots + brown rice
+Snack: greek yogurt + berries +walnuts
+Dinner: stir-fried tofu with spinach / mushrooms + sweet potato"
+31,8,75,4,69,6800,89.66666666666667,0,0,"Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables","Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables"
+31,6,30,8,72,5000,95.0,0,2,"Breakfast: whole-grain toast + scrambled eggs + spinach
+Lunch: chicken / tofu bowl with brown rice + steamed vegetables
+Snack: banana + almonds
+Dinner: grilled white fish + light vegetable soup","Breakfast: whole-grain toast + scrambled eggs + spinach
+Lunch: chicken / tofu bowl with brown rice + steamed vegetables
+Snack: banana + almonds
+Dinner: grilled white fish + light vegetable soup"
+31,7,75,6,70,8000,93.33333333333333,0,0,"Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables","Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables"
+31,6,30,8,72,5000,95.0,0,2,"Breakfast: whole-grain toast + scrambled eggs + spinach
+Lunch: chicken / tofu bowl with brown rice + steamed vegetables
+Snack: banana + almonds
+Dinner: grilled white fish + light vegetable soup","Breakfast: whole-grain toast + scrambled eggs + spinach
+Lunch: chicken / tofu bowl with brown rice + steamed vegetables
+Snack: banana + almonds
+Dinner: grilled white fish + light vegetable soup"
+31,6,30,8,72,5000,95.0,0,2,"Breakfast: whole-grain toast + scrambled eggs + spinach
+Lunch: chicken / tofu bowl with brown rice + steamed vegetables
+Snack: banana + almonds
+Dinner: grilled white fish + light vegetable soup","Breakfast: whole-grain toast + scrambled eggs + spinach
+Lunch: chicken / tofu bowl with brown rice + steamed vegetables
+Snack: banana + almonds
+Dinner: grilled white fish + light vegetable soup"
+31,7,75,6,70,8000,93.33333333333333,0,0,"Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables","Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables"
+31,7,75,6,70,8000,93.33333333333333,0,0,"Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables","Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables"
+31,7,75,6,70,8000,93.33333333333333,0,0,"Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables","Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables"
+31,7,75,6,70,8000,93.33333333333333,0,0,"Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables","Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables"
+31,7,75,6,70,8000,93.33333333333333,0,0,"Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables","Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables"
+31,7,75,6,70,8000,93.33333333333333,0,0,"Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables","Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables"
+31,7,75,6,70,8000,93.33333333333333,0,0,"Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables","Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables"
+31,7,75,6,70,8000,93.33333333333333,0,0,"Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables","Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables"
+31,7,75,6,70,8000,93.33333333333333,0,0,"Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables","Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables"
+31,7,75,6,70,8000,93.33333333333333,0,0,"Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables","Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables"
+31,7,75,6,70,8000,93.33333333333333,0,0,"Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables","Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables"
+31,7,75,6,70,8000,93.33333333333333,0,0,"Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables","Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables"
+31,7,75,6,70,8000,93.33333333333333,0,0,"Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables","Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables"
+32,8,45,3,70,8000,93.33333333333333,0,0,"Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables","Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables"
+32,8,45,3,70,8000,93.33333333333333,0,0,"Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables","Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables"
+32,6,30,8,72,5000,95.0,0,2,"Breakfast: whole-grain toast + scrambled eggs + spinach
+Lunch: chicken / tofu bowl with brown rice + steamed vegetables
+Snack: banana + almonds
+Dinner: grilled white fish + light vegetable soup","Breakfast: whole-grain toast + scrambled eggs + spinach
+Lunch: chicken / tofu bowl with brown rice + steamed vegetables
+Snack: banana + almonds
+Dinner: grilled white fish + light vegetable soup"
+32,7,75,6,70,8000,93.33333333333333,0,0,"Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables","Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables"
+32,6,30,8,72,5000,95.0,0,2,"Breakfast: whole-grain toast + scrambled eggs + spinach
+Lunch: chicken / tofu bowl with brown rice + steamed vegetables
+Snack: banana + almonds
+Dinner: grilled white fish + light vegetable soup","Breakfast: whole-grain toast + scrambled eggs + spinach
+Lunch: chicken / tofu bowl with brown rice + steamed vegetables
+Snack: banana + almonds
+Dinner: grilled white fish + light vegetable soup"
+32,6,30,8,72,5000,95.0,0,2,"Breakfast: whole-grain toast + scrambled eggs + spinach
+Lunch: chicken / tofu bowl with brown rice + steamed vegetables
+Snack: banana + almonds
+Dinner: grilled white fish + light vegetable soup","Breakfast: whole-grain toast + scrambled eggs + spinach
+Lunch: chicken / tofu bowl with brown rice + steamed vegetables
+Snack: banana + almonds
+Dinner: grilled white fish + light vegetable soup"
+32,7,75,6,70,8000,93.33333333333333,0,0,"Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables","Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables"
+32,6,30,8,72,5000,95.0,0,2,"Breakfast: whole-grain toast + scrambled eggs + spinach
+Lunch: chicken / tofu bowl with brown rice + steamed vegetables
+Snack: banana + almonds
+Dinner: grilled white fish + light vegetable soup","Breakfast: whole-grain toast + scrambled eggs + spinach
+Lunch: chicken / tofu bowl with brown rice + steamed vegetables
+Snack: banana + almonds
+Dinner: grilled white fish + light vegetable soup"
+32,6,30,8,72,5000,95.0,0,2,"Breakfast: whole-grain toast + scrambled eggs + spinach
+Lunch: chicken / tofu bowl with brown rice + steamed vegetables
+Snack: banana + almonds
+Dinner: grilled white fish + light vegetable soup","Breakfast: whole-grain toast + scrambled eggs + spinach
+Lunch: chicken / tofu bowl with brown rice + steamed vegetables
+Snack: banana + almonds
+Dinner: grilled white fish + light vegetable soup"
+32,7,75,6,70,8000,93.33333333333333,0,0,"Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables","Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables"
+32,6,30,8,72,5000,95.0,0,2,"Breakfast: whole-grain toast + scrambled eggs + spinach
+Lunch: chicken / tofu bowl with brown rice + steamed vegetables
+Snack: banana + almonds
+Dinner: grilled white fish + light vegetable soup","Breakfast: whole-grain toast + scrambled eggs + spinach
+Lunch: chicken / tofu bowl with brown rice + steamed vegetables
+Snack: banana + almonds
+Dinner: grilled white fish + light vegetable soup"
+32,6,30,8,72,5000,95.0,0,2,"Breakfast: whole-grain toast + scrambled eggs + spinach
+Lunch: chicken / tofu bowl with brown rice + steamed vegetables
+Snack: banana + almonds
+Dinner: grilled white fish + light vegetable soup","Breakfast: whole-grain toast + scrambled eggs + spinach
+Lunch: chicken / tofu bowl with brown rice + steamed vegetables
+Snack: banana + almonds
+Dinner: grilled white fish + light vegetable soup"
+32,6,30,8,72,5000,95.0,0,2,"Breakfast: whole-grain toast + scrambled eggs + spinach
+Lunch: chicken / tofu bowl with brown rice + steamed vegetables
+Snack: banana + almonds
+Dinner: grilled white fish + light vegetable soup","Breakfast: whole-grain toast + scrambled eggs + spinach
+Lunch: chicken / tofu bowl with brown rice + steamed vegetables
+Snack: banana + almonds
+Dinner: grilled white fish + light vegetable soup"
+32,6,30,8,72,5000,95.0,0,2,"Breakfast: whole-grain toast + scrambled eggs + spinach
+Lunch: chicken / tofu bowl with brown rice + steamed vegetables
+Snack: banana + almonds
+Dinner: grilled white fish + light vegetable soup","Breakfast: whole-grain toast + scrambled eggs + spinach
+Lunch: chicken / tofu bowl with brown rice + steamed vegetables
+Snack: banana + almonds
+Dinner: grilled white fish + light vegetable soup"
+32,6,30,8,72,5000,95.0,0,2,"Breakfast: whole-grain toast + scrambled eggs + spinach
+Lunch: chicken / tofu bowl with brown rice + steamed vegetables
+Snack: banana + almonds
+Dinner: grilled white fish + light vegetable soup","Breakfast: whole-grain toast + scrambled eggs + spinach
+Lunch: chicken / tofu bowl with brown rice + steamed vegetables
+Snack: banana + almonds
+Dinner: grilled white fish + light vegetable soup"
+32,6,30,8,72,5000,95.0,0,2,"Breakfast: whole-grain toast + scrambled eggs + spinach
+Lunch: chicken / tofu bowl with brown rice + steamed vegetables
+Snack: banana + almonds
+Dinner: grilled white fish + light vegetable soup","Breakfast: whole-grain toast + scrambled eggs + spinach
+Lunch: chicken / tofu bowl with brown rice + steamed vegetables
+Snack: banana + almonds
+Dinner: grilled white fish + light vegetable soup"
+32,8,50,6,68,7000,90.0,0,0,"Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables","Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables"
+33,6,30,8,72,5000,95.0,0,2,"Breakfast: whole-grain toast + scrambled eggs + spinach
+Lunch: chicken / tofu bowl with brown rice + steamed vegetables
+Snack: banana + almonds
+Dinner: grilled white fish + light vegetable soup","Breakfast: whole-grain toast + scrambled eggs + spinach
+Lunch: chicken / tofu bowl with brown rice + steamed vegetables
+Snack: banana + almonds
+Dinner: grilled white fish + light vegetable soup"
+33,6,50,6,76,5500,99.33333333333333,2,2,"Breakfast: 0atmeal + berries + nuts
+Lunch: grilled fish + steamed vegetables + brown rice
+Snack: fresh fruits + nuts
+Dinner: stir-fried meat + light stir_fried vegetables / tofu + brown rice","Breakfast: 0atmeal + berries + nuts
+Lunch: grilled fish + steamed vegetables + brown rice
+Snack: fresh fruits + nuts
+Dinner: stir-fried meat + light stir_fried vegetables / tofu + brown rice"
+33,6,50,6,76,5500,99.33333333333333,2,2,"Breakfast: 0atmeal + berries + nuts
+Lunch: grilled fish + steamed vegetables + brown rice
+Snack: fresh fruits + nuts
+Dinner: stir-fried meat + light stir_fried vegetables / tofu + brown rice","Breakfast: 0atmeal + berries + nuts
+Lunch: grilled fish + steamed vegetables + brown rice
+Snack: fresh fruits + nuts
+Dinner: stir-fried meat + light stir_fried vegetables / tofu + brown rice"
+33,6,30,8,72,5000,95.0,0,2,"Breakfast: whole-grain toast + scrambled eggs + spinach
+Lunch: chicken / tofu bowl with brown rice + steamed vegetables
+Snack: banana + almonds
+Dinner: grilled white fish + light vegetable soup","Breakfast: whole-grain toast + scrambled eggs + spinach
+Lunch: chicken / tofu bowl with brown rice + steamed vegetables
+Snack: banana + almonds
+Dinner: grilled white fish + light vegetable soup"
+33,6,30,8,72,5000,95.0,0,2,"Breakfast: whole-grain toast + scrambled eggs + spinach
+Lunch: chicken / tofu bowl with brown rice + steamed vegetables
+Snack: banana + almonds
+Dinner: grilled white fish + light vegetable soup","Breakfast: whole-grain toast + scrambled eggs + spinach
+Lunch: chicken / tofu bowl with brown rice + steamed vegetables
+Snack: banana + almonds
+Dinner: grilled white fish + light vegetable soup"
+33,6,30,8,72,5000,95.0,0,2,"Breakfast: whole-grain toast + scrambled eggs + spinach
+Lunch: chicken / tofu bowl with brown rice + steamed vegetables
+Snack: banana + almonds
+Dinner: grilled white fish + light vegetable soup","Breakfast: whole-grain toast + scrambled eggs + spinach
+Lunch: chicken / tofu bowl with brown rice + steamed vegetables
+Snack: banana + almonds
+Dinner: grilled white fish + light vegetable soup"
+33,6,30,8,72,5000,95.0,0,2,"Breakfast: whole-grain toast + scrambled eggs + spinach
+Lunch: chicken / tofu bowl with brown rice + steamed vegetables
+Snack: banana + almonds
+Dinner: grilled white fish + light vegetable soup","Breakfast: whole-grain toast + scrambled eggs + spinach
+Lunch: chicken / tofu bowl with brown rice + steamed vegetables
+Snack: banana + almonds
+Dinner: grilled white fish + light vegetable soup"
+33,6,30,8,72,5000,95.0,0,2,"Breakfast: whole-grain toast + scrambled eggs + spinach
+Lunch: chicken / tofu bowl with brown rice + steamed vegetables
+Snack: banana + almonds
+Dinner: grilled white fish + light vegetable soup","Breakfast: whole-grain toast + scrambled eggs + spinach
+Lunch: chicken / tofu bowl with brown rice + steamed vegetables
+Snack: banana + almonds
+Dinner: grilled white fish + light vegetable soup"
+33,6,30,8,72,5000,95.0,0,2,"Breakfast: whole-grain toast + scrambled eggs + spinach
+Lunch: chicken / tofu bowl with brown rice + steamed vegetables
+Snack: banana + almonds
+Dinner: grilled white fish + light vegetable soup","Breakfast: whole-grain toast + scrambled eggs + spinach
+Lunch: chicken / tofu bowl with brown rice + steamed vegetables
+Snack: banana + almonds
+Dinner: grilled white fish + light vegetable soup"
+33,6,30,8,72,5000,95.0,0,2,"Breakfast: whole-grain toast + scrambled eggs + spinach
+Lunch: chicken / tofu bowl with brown rice + steamed vegetables
+Snack: banana + almonds
+Dinner: grilled white fish + light vegetable soup","Breakfast: whole-grain toast + scrambled eggs + spinach
+Lunch: chicken / tofu bowl with brown rice + steamed vegetables
+Snack: banana + almonds
+Dinner: grilled white fish + light vegetable soup"
+33,6,30,8,72,5000,95.0,0,2,"Breakfast: whole-grain toast + scrambled eggs + spinach
+Lunch: chicken / tofu bowl with brown rice + steamed vegetables
+Snack: banana + almonds
+Dinner: grilled white fish + light vegetable soup","Breakfast: whole-grain toast + scrambled eggs + spinach
+Lunch: chicken / tofu bowl with brown rice + steamed vegetables
+Snack: banana + almonds
+Dinner: grilled white fish + light vegetable soup"
+33,6,30,8,72,5000,95.0,0,2,"Breakfast: whole-grain toast + scrambled eggs + spinach
+Lunch: chicken / tofu bowl with brown rice + steamed vegetables
+Snack: banana + almonds
+Dinner: grilled white fish + light vegetable soup","Breakfast: whole-grain toast + scrambled eggs + spinach
+Lunch: chicken / tofu bowl with brown rice + steamed vegetables
+Snack: banana + almonds
+Dinner: grilled white fish + light vegetable soup"
+33,6,30,8,72,5000,95.0,0,2,"Breakfast: whole-grain toast + scrambled eggs + spinach
+Lunch: chicken / tofu bowl with brown rice + steamed vegetables
+Snack: banana + almonds
+Dinner: grilled white fish + light vegetable soup","Breakfast: whole-grain toast + scrambled eggs + spinach
+Lunch: chicken / tofu bowl with brown rice + steamed vegetables
+Snack: banana + almonds
+Dinner: grilled white fish + light vegetable soup"
+34,4,32,8,81,5200,101.0,2,2,"Breakfast: oatmeal + sliced banana + chia seeds
+Lunch: steamed fish + steamed broccoli and carrots + brown rice
+Snack: greek yogurt + berries +walnuts
+Dinner: stir-fried tofu with spinach / mushrooms + sweet potato","Breakfast: oatmeal + sliced banana + chia seeds
+Lunch: steamed fish + steamed broccoli and carrots + brown rice
+Snack: greek yogurt + berries +walnuts
+Dinner: stir-fried tofu with spinach / mushrooms + sweet potato"
+34,4,32,8,81,5200,101.0,2,2,"Breakfast: oatmeal + sliced banana + chia seeds
+Lunch: steamed fish + steamed broccoli and carrots + brown rice
+Snack: greek yogurt + berries +walnuts
+Dinner: stir-fried tofu with spinach / mushrooms + sweet potato","Breakfast: oatmeal + sliced banana + chia seeds
+Lunch: steamed fish + steamed broccoli and carrots + brown rice
+Snack: greek yogurt + berries +walnuts
+Dinner: stir-fried tofu with spinach / mushrooms + sweet potato"
+35,7,40,5,70,5600,98.66666666666667,2,2,"Breakfast: 0atmeal + berries + nuts
+Lunch: grilled fish + steamed vegetables + brown rice
+Snack: fresh fruits + nuts
+Dinner: stir-fried meat + light stir_fried vegetables / tofu + brown rice","Breakfast: 0atmeal + berries + nuts
+Lunch: grilled fish + steamed vegetables + brown rice
+Snack: fresh fruits + nuts
+Dinner: stir-fried meat + light stir_fried vegetables / tofu + brown rice"
+35,7,40,5,70,5600,98.66666666666667,2,2,"Breakfast: 0atmeal + berries + nuts
+Lunch: grilled fish + steamed vegetables + brown rice
+Snack: fresh fruits + nuts
+Dinner: stir-fried meat + light stir_fried vegetables / tofu + brown rice","Breakfast: 0atmeal + berries + nuts
+Lunch: grilled fish + steamed vegetables + brown rice
+Snack: fresh fruits + nuts
+Dinner: stir-fried meat + light stir_fried vegetables / tofu + brown rice"
+35,8,60,5,70,8000,93.33333333333333,0,0,"Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables","Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables"
+35,8,60,4,68,7000,88.33333333333333,0,0,"Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables","Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables"
+35,8,60,4,65,5000,95.0,0,0,"Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables","Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables"
+35,8,60,4,65,5000,95.0,0,0,"Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables","Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables"
+35,8,60,4,65,5000,95.0,0,0,"Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables","Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables"
+35,8,60,4,65,5000,95.0,0,0,"Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables","Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables"
+35,8,60,4,65,5000,95.0,0,0,"Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables","Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables"
+35,8,60,4,65,5000,95.0,0,0,"Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables","Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables"
+35,8,60,5,70,8000,93.33333333333333,0,0,"Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables","Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables"
+35,7,60,5,84,3300,103.66666666666667,1,2,"Breakfast: greek yogurt + berries + flax seeds
+Lunch: grilled chicken salad + leafy greens, tomato, cucumber + quinoa
+Snack: apple slices + almonds
+Dinner: stir-fried vegetables + brown rice + herbal tea","Breakfast: greek yogurt + berries + flax seeds
+Lunch: grilled chicken salad + leafy greens, tomato, cucumber + quinoa
+Snack: apple slices + almonds
+Dinner: stir-fried vegetables + brown rice + herbal tea"
+36,8,60,4,68,7000,88.33333333333333,0,0,"Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables","Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables"
+36,8,60,4,68,7000,88.33333333333333,0,0,"Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables","Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables"
+36,8,60,4,68,7000,88.33333333333333,0,0,"Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables","Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables"
+36,8,60,4,68,7000,88.33333333333333,0,0,"Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables","Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables"
+36,8,60,4,68,7000,88.33333333333333,0,0,"Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables","Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables"
+36,8,60,4,68,7000,88.33333333333333,0,0,"Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables","Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables"
+36,8,60,4,68,7000,88.33333333333333,0,0,"Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables","Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables"
+36,8,60,4,68,7000,88.33333333333333,0,0,"Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables","Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables"
+36,8,60,4,68,7000,88.33333333333333,0,0,"Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables","Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables"
+36,5,35,7,74,4800,99.0,2,2,"Breakfast: whole-grain toast + scrambled eggs + spinach
+Lunch: chicken / tofu bowl with brown rice + steamed vegetables
+Snack: banana + almonds
+Dinner: grilled white fish + light vegetable soup","Breakfast: whole-grain toast + scrambled eggs + spinach
+Lunch: chicken / tofu bowl with brown rice + steamed vegetables
+Snack: banana + almonds
+Dinner: grilled white fish + light vegetable soup"
+36,8,60,4,68,7000,88.33333333333333,0,0,"Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables","Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables"
+36,5,35,7,74,4800,99.0,2,2,"Breakfast: whole-grain toast + scrambled eggs + spinach
+Lunch: chicken / tofu bowl with brown rice + steamed vegetables
+Snack: banana + almonds
+Dinner: grilled white fish + light vegetable soup","Breakfast: whole-grain toast + scrambled eggs + spinach
+Lunch: chicken / tofu bowl with brown rice + steamed vegetables
+Snack: banana + almonds
+Dinner: grilled white fish + light vegetable soup"
+37,6,42,6,77,4200,97.33333333333333,2,2,"Breakfast: whole-grain toast + scrambled eggs + spinach
+Lunch: chicken / tofu bowl with brown rice + steamed vegetables
+Snack: banana + almonds
+Dinner: grilled white fish + light vegetable soup","Breakfast: whole-grain toast + scrambled eggs + spinach
+Lunch: chicken / tofu bowl with brown rice + steamed vegetables
+Snack: banana + almonds
+Dinner: grilled white fish + light vegetable soup"
+37,8,70,4,68,7000,93.33333333333333,0,0,"Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables","Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables"
+37,8,70,4,68,7000,93.33333333333333,0,0,"Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables","Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables"
+37,8,60,5,68,8000,100.0,0,0,"Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables","Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables"
+37,8,60,4,68,7000,88.33333333333333,0,0,"Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables","Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables"
+37,8,60,5,68,8000,100.0,0,0,"Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables","Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables"
+37,8,60,4,68,7000,88.33333333333333,0,0,"Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables","Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables"
+37,8,60,5,68,8000,100.0,0,0,"Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables","Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables"
+37,8,60,4,68,7000,88.33333333333333,0,0,"Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables","Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables"
+37,8,60,4,68,7000,88.33333333333333,0,0,"Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables","Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables"
+37,8,60,4,68,7000,88.33333333333333,0,0,"Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables","Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables"
+37,8,60,4,68,7000,88.33333333333333,0,0,"Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables","Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables"
+37,8,60,4,68,7000,88.33333333333333,0,0,"Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables","Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables"
+37,8,60,4,68,7000,88.33333333333333,0,0,"Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables","Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables"
+37,8,60,4,68,7000,88.33333333333333,0,0,"Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables","Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables"
+37,8,60,4,68,7000,88.33333333333333,0,0,"Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables","Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables"
+37,8,60,4,68,7000,88.33333333333333,0,0,"Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables","Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables"
+37,8,60,4,68,7000,88.33333333333333,0,0,"Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables","Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables"
+37,8,60,4,68,7000,88.33333333333333,0,0,"Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables","Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables"
+37,8,60,4,70,8000,93.33333333333333,0,0,"Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables","Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables"
+38,8,60,5,68,8000,100.0,0,0,"Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables","Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables"
+38,8,60,4,68,7000,88.33333333333333,0,0,"Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables","Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables"
+38,8,60,5,68,8000,100.0,0,0,"Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables","Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables"
+38,8,60,5,68,8000,100.0,0,0,"Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables","Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables"
+38,8,60,4,68,7000,88.33333333333333,0,0,"Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables","Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables"
+38,8,60,5,68,8000,100.0,0,0,"Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables","Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables"
+38,8,60,5,68,8000,100.0,0,0,"Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables","Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables"
+38,8,60,4,68,7000,88.33333333333333,0,0,"Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables","Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables"
+38,8,60,5,68,8000,100.0,0,0,"Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables","Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables"
+38,8,60,5,68,8000,100.0,0,0,"Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables","Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables"
+38,8,60,4,68,7000,88.33333333333333,0,0,"Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables","Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables"
+38,8,60,5,68,8000,100.0,0,0,"Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables","Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables"
+38,8,60,4,68,7000,88.33333333333333,0,0,"Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables","Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables"
+38,8,60,5,68,8000,100.0,0,0,"Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables","Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables"
+38,8,60,4,68,7000,88.33333333333333,0,0,"Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables","Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables"
+38,8,60,5,68,8000,100.0,0,0,"Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables","Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables"
+38,8,60,4,68,7000,88.33333333333333,0,0,"Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables","Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables"
+38,8,60,4,68,7000,88.33333333333333,0,0,"Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables","Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables"
+38,8,60,5,68,8000,100.0,0,0,"Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables","Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables"
+38,7,60,5,84,3300,103.66666666666667,1,2,"Breakfast: greek yogurt + berries + flax seeds
+Lunch: grilled chicken salad + leafy greens, tomato, cucumber + quinoa
+Snack: apple slices + almonds
+Dinner: stir-fried vegetables + brown rice + herbal tea","Breakfast: greek yogurt + berries + flax seeds
+Lunch: grilled chicken salad + leafy greens, tomato, cucumber + quinoa
+Snack: apple slices + almonds
+Dinner: stir-fried vegetables + brown rice + herbal tea"
+39,8,60,5,68,8000,100.0,0,0,"Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables","Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables"
+39,5,40,7,80,4000,102.0,2,2,"Breakfast: oatmeal + sliced banana + chia seeds
+Lunch: steamed fish + steamed broccoli and carrots + brown rice
+Snack: greek yogurt + berries +walnuts
+Dinner: stir-fried tofu with spinach / mushrooms + sweet potato","Breakfast: oatmeal + sliced banana + chia seeds
+Lunch: steamed fish + steamed broccoli and carrots + brown rice
+Snack: greek yogurt + berries +walnuts
+Dinner: stir-fried tofu with spinach / mushrooms + sweet potato"
+39,7,50,6,75,5500,99.33333333333333,0,2,"Breakfast: 0atmeal + berries + nuts
+Lunch: grilled fish + steamed vegetables + brown rice
+Snack: fresh fruits + nuts
+Dinner: stir-fried meat + light stir_fried vegetables / tofu + brown rice","Breakfast: 0atmeal + berries + nuts
+Lunch: grilled fish + steamed vegetables + brown rice
+Snack: fresh fruits + nuts
+Dinner: stir-fried meat + light stir_fried vegetables / tofu + brown rice"
+39,9,80,3,67,7500,90.33333333333333,0,0,"Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables","Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables"
+39,9,80,3,67,7500,90.33333333333333,0,0,"Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables","Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables"
+39,8,60,5,68,8000,100.0,0,0,"Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables","Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables"
+39,8,60,5,68,8000,100.0,0,0,"Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables","Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables"
+39,8,60,5,68,8000,100.0,0,0,"Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables","Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables"
+39,8,60,5,68,8000,100.0,0,0,"Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables","Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables"
+39,8,60,5,68,8000,100.0,0,0,"Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables","Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables"
+39,8,60,5,68,8000,100.0,0,0,"Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables","Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables"
+39,8,60,5,68,8000,100.0,0,0,"Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables","Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables"
+39,8,60,5,68,8000,100.0,0,0,"Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables","Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables"
+39,8,60,5,68,8000,100.0,0,0,"Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables","Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables"
+39,8,60,5,68,8000,100.0,0,0,"Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables","Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables"
+40,8,55,6,73,7300,91.0,0,0,"Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables","Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables"
+40,8,55,6,73,7300,91.0,0,0,"Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables","Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables"
+40,8,90,5,68,8000,100.0,0,0,"Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables","Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables"
+40,8,90,5,68,8000,100.0,0,0,"Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables","Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables"
+41,8,90,5,70,8000,100.0,0,0,"Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables","Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables"
+41,8,70,6,72,6200,93.0,0,0,"Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables","Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables"
+41,7,55,6,72,6000,96.33333333333333,2,2,"Breakfast: 0atmeal + berries + nuts
+Lunch: grilled fish + steamed vegetables + brown rice
+Snack: fresh fruits + nuts
+Dinner: stir-fried meat + light stir_fried vegetables / tofu + brown rice","Breakfast: 0atmeal + berries + nuts
+Lunch: grilled fish + steamed vegetables + brown rice
+Snack: fresh fruits + nuts
+Dinner: stir-fried meat + light stir_fried vegetables / tofu + brown rice"
+41,7,55,6,72,6000,96.33333333333333,2,2,"Breakfast: 0atmeal + berries + nuts
+Lunch: grilled fish + steamed vegetables + brown rice
+Snack: fresh fruits + nuts
+Dinner: stir-fried meat + light stir_fried vegetables / tofu + brown rice","Breakfast: 0atmeal + berries + nuts
+Lunch: grilled fish + steamed vegetables + brown rice
+Snack: fresh fruits + nuts
+Dinner: stir-fried meat + light stir_fried vegetables / tofu + brown rice"
+41,8,90,5,70,8000,100.0,0,0,"Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables","Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables"
+41,8,90,5,70,8000,100.0,0,0,"Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables","Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables"
+41,8,90,5,70,8000,100.0,0,0,"Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables","Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables"
+41,8,90,5,70,8000,100.0,0,0,"Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables","Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables"
+41,8,90,5,70,8000,100.0,0,0,"Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables","Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables"
+41,8,90,5,70,8000,100.0,0,0,"Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables","Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables"
+41,8,90,5,70,8000,100.0,0,0,"Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables","Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables"
+41,8,90,5,70,8000,100.0,0,0,"Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables","Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables"
+42,6,45,7,72,6000,100.0,2,2,"Breakfast: whole-grain toast + scrambled eggs + spinach
+Lunch: chicken / tofu bowl with brown rice + steamed vegetables
+Snack: banana + almonds
+Dinner: grilled white fish + light vegetable soup","Breakfast: whole-grain toast + scrambled eggs + spinach
+Lunch: chicken / tofu bowl with brown rice + steamed vegetables
+Snack: banana + almonds
+Dinner: grilled white fish + light vegetable soup"
+42,8,90,5,70,8000,100.0,0,0,"Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables","Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables"
+42,8,90,5,70,8000,100.0,0,0,"Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables","Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables"
+42,8,90,5,70,8000,100.0,0,0,"Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables","Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables"
+42,8,90,5,70,8000,100.0,0,0,"Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables","Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables"
+42,8,90,5,70,8000,100.0,0,0,"Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables","Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables"
+42,8,90,5,70,8000,100.0,0,0,"Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables","Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables"
+42,6,45,7,78,5000,100.0,2,2,"Breakfast: whole-grain toast + scrambled eggs + spinach
+Lunch: chicken / tofu bowl with brown rice + steamed vegetables
+Snack: banana + almonds
+Dinner: grilled white fish + light vegetable soup","Breakfast: whole-grain toast + scrambled eggs + spinach
+Lunch: chicken / tofu bowl with brown rice + steamed vegetables
+Snack: banana + almonds
+Dinner: grilled white fish + light vegetable soup"
+42,6,45,7,78,5000,100.0,2,2,"Breakfast: whole-grain toast + scrambled eggs + spinach
+Lunch: chicken / tofu bowl with brown rice + steamed vegetables
+Snack: banana + almonds
+Dinner: grilled white fish + light vegetable soup","Breakfast: whole-grain toast + scrambled eggs + spinach
+Lunch: chicken / tofu bowl with brown rice + steamed vegetables
+Snack: banana + almonds
+Dinner: grilled white fish + light vegetable soup"
+43,7,45,4,65,6000,105.0,2,1,"Breakfast: oatmeal + chopped apples + little cinnamon
+Lunch: steamed fish + steamed broccoli and carrots + brown rice
+Snack: unsalted almonds + pear / orange
+Dinner: vegetable soup + grilled tofu + sweet potato","Breakfast: oatmeal + chopped apples + little cinnamon
+Lunch: steamed fish + steamed broccoli and carrots + brown rice
+Snack: unsalted almonds + pear / orange
+Dinner: vegetable soup + grilled tofu + sweet potato"
+43,6,45,7,72,6000,100.0,2,2,"Breakfast: whole-grain toast + scrambled eggs + spinach
+Lunch: chicken / tofu bowl with brown rice + steamed vegetables
+Snack: banana + almonds
+Dinner: grilled white fish + light vegetable soup","Breakfast: whole-grain toast + scrambled eggs + spinach
+Lunch: chicken / tofu bowl with brown rice + steamed vegetables
+Snack: banana + almonds
+Dinner: grilled white fish + light vegetable soup"
+43,7,45,4,65,6000,105.0,2,1,"Breakfast: oatmeal + chopped apples + little cinnamon
+Lunch: steamed fish + steamed broccoli and carrots + brown rice
+Snack: unsalted almonds + pear / orange
+Dinner: vegetable soup + grilled tofu + sweet potato","Breakfast: oatmeal + chopped apples + little cinnamon
+Lunch: steamed fish + steamed broccoli and carrots + brown rice
+Snack: unsalted almonds + pear / orange
+Dinner: vegetable soup + grilled tofu + sweet potato"
+43,6,45,7,72,6000,100.0,2,2,"Breakfast: whole-grain toast + scrambled eggs + spinach
+Lunch: chicken / tofu bowl with brown rice + steamed vegetables
+Snack: banana + almonds
+Dinner: grilled white fish + light vegetable soup","Breakfast: whole-grain toast + scrambled eggs + spinach
+Lunch: chicken / tofu bowl with brown rice + steamed vegetables
+Snack: banana + almonds
+Dinner: grilled white fish + light vegetable soup"
+43,7,45,4,65,6000,105.0,2,1,"Breakfast: oatmeal + chopped apples + little cinnamon
+Lunch: steamed fish + steamed broccoli and carrots + brown rice
+Snack: unsalted almonds + pear / orange
+Dinner: vegetable soup + grilled tofu + sweet potato","Breakfast: oatmeal + chopped apples + little cinnamon
+Lunch: steamed fish + steamed broccoli and carrots + brown rice
+Snack: unsalted almonds + pear / orange
+Dinner: vegetable soup + grilled tofu + sweet potato"
+43,6,45,7,72,6000,100.0,2,2,"Breakfast: whole-grain toast + scrambled eggs + spinach
+Lunch: chicken / tofu bowl with brown rice + steamed vegetables
+Snack: banana + almonds
+Dinner: grilled white fish + light vegetable soup","Breakfast: whole-grain toast + scrambled eggs + spinach
+Lunch: chicken / tofu bowl with brown rice + steamed vegetables
+Snack: banana + almonds
+Dinner: grilled white fish + light vegetable soup"
+43,6,45,7,72,6000,100.0,2,2,"Breakfast: whole-grain toast + scrambled eggs + spinach
+Lunch: chicken / tofu bowl with brown rice + steamed vegetables
+Snack: banana + almonds
+Dinner: grilled white fish + light vegetable soup","Breakfast: whole-grain toast + scrambled eggs + spinach
+Lunch: chicken / tofu bowl with brown rice + steamed vegetables
+Snack: banana + almonds
+Dinner: grilled white fish + light vegetable soup"
+43,6,45,7,72,6000,100.0,2,2,"Breakfast: whole-grain toast + scrambled eggs + spinach
+Lunch: chicken / tofu bowl with brown rice + steamed vegetables
+Snack: banana + almonds
+Dinner: grilled white fish + light vegetable soup","Breakfast: whole-grain toast + scrambled eggs + spinach
+Lunch: chicken / tofu bowl with brown rice + steamed vegetables
+Snack: banana + almonds
+Dinner: grilled white fish + light vegetable soup"
+43,6,45,7,72,6000,100.0,2,2,"Breakfast: whole-grain toast + scrambled eggs + spinach
+Lunch: chicken / tofu bowl with brown rice + steamed vegetables
+Snack: banana + almonds
+Dinner: grilled white fish + light vegetable soup","Breakfast: whole-grain toast + scrambled eggs + spinach
+Lunch: chicken / tofu bowl with brown rice + steamed vegetables
+Snack: banana + almonds
+Dinner: grilled white fish + light vegetable soup"
+43,6,45,7,72,6000,100.0,2,2,"Breakfast: whole-grain toast + scrambled eggs + spinach
+Lunch: chicken / tofu bowl with brown rice + steamed vegetables
+Snack: banana + almonds
+Dinner: grilled white fish + light vegetable soup","Breakfast: whole-grain toast + scrambled eggs + spinach
+Lunch: chicken / tofu bowl with brown rice + steamed vegetables
+Snack: banana + almonds
+Dinner: grilled white fish + light vegetable soup"
+43,6,45,7,72,6000,100.0,2,2,"Breakfast: whole-grain toast + scrambled eggs + spinach
+Lunch: chicken / tofu bowl with brown rice + steamed vegetables
+Snack: banana + almonds
+Dinner: grilled white fish + light vegetable soup","Breakfast: whole-grain toast + scrambled eggs + spinach
+Lunch: chicken / tofu bowl with brown rice + steamed vegetables
+Snack: banana + almonds
+Dinner: grilled white fish + light vegetable soup"
+43,6,45,7,72,6000,100.0,2,2,"Breakfast: whole-grain toast + scrambled eggs + spinach
+Lunch: chicken / tofu bowl with brown rice + steamed vegetables
+Snack: banana + almonds
+Dinner: grilled white fish + light vegetable soup","Breakfast: whole-grain toast + scrambled eggs + spinach
+Lunch: chicken / tofu bowl with brown rice + steamed vegetables
+Snack: banana + almonds
+Dinner: grilled white fish + light vegetable soup"
+43,6,45,7,72,6000,100.0,2,2,"Breakfast: whole-grain toast + scrambled eggs + spinach
+Lunch: chicken / tofu bowl with brown rice + steamed vegetables
+Snack: banana + almonds
+Dinner: grilled white fish + light vegetable soup","Breakfast: whole-grain toast + scrambled eggs + spinach
+Lunch: chicken / tofu bowl with brown rice + steamed vegetables
+Snack: banana + almonds
+Dinner: grilled white fish + light vegetable soup"
+43,6,45,7,72,6000,100.0,2,2,"Breakfast: whole-grain toast + scrambled eggs + spinach
+Lunch: chicken / tofu bowl with brown rice + steamed vegetables
+Snack: banana + almonds
+Dinner: grilled white fish + light vegetable soup","Breakfast: whole-grain toast + scrambled eggs + spinach
+Lunch: chicken / tofu bowl with brown rice + steamed vegetables
+Snack: banana + almonds
+Dinner: grilled white fish + light vegetable soup"
+43,6,45,7,72,6000,100.0,2,2,"Breakfast: whole-grain toast + scrambled eggs + spinach
+Lunch: chicken / tofu bowl with brown rice + steamed vegetables
+Snack: banana + almonds
+Dinner: grilled white fish + light vegetable soup","Breakfast: whole-grain toast + scrambled eggs + spinach
+Lunch: chicken / tofu bowl with brown rice + steamed vegetables
+Snack: banana + almonds
+Dinner: grilled white fish + light vegetable soup"
+43,8,90,5,70,8000,100.0,0,0,"Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables","Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables"
+43,8,90,5,70,8000,100.0,0,0,"Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables","Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables"
+43,6,47,7,69,6800,89.66666666666667,0,2,"Breakfast: whole-grain toast + scrambled eggs + spinach
+Lunch: chicken / tofu bowl with brown rice + steamed vegetables
+Snack: banana + almonds
+Dinner: grilled white fish + light vegetable soup","Breakfast: whole-grain toast + scrambled eggs + spinach
+Lunch: chicken / tofu bowl with brown rice + steamed vegetables
+Snack: banana + almonds
+Dinner: grilled white fish + light vegetable soup"
+43,8,75,4,68,6800,94.0,2,0,"Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables","Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables"
+43,8,90,5,70,8000,100.0,0,0,"Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables","Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables"
+43,8,90,5,70,8000,100.0,0,0,"Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables","Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables"
+43,8,90,5,70,8000,100.0,0,0,"Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables","Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables"
+43,8,90,5,70,8000,100.0,0,0,"Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables","Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables"
+43,8,90,5,70,8000,100.0,0,0,"Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables","Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables"
+43,8,90,5,70,8000,100.0,0,0,"Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables","Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables"
+43,8,90,5,70,8000,100.0,0,0,"Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables","Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables"
+43,8,90,5,70,8000,100.0,0,0,"Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables","Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables"
+43,8,90,5,70,8000,100.0,0,0,"Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables","Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables"
+43,8,90,5,70,8000,100.0,0,0,"Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables","Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables"
+43,8,90,5,70,8000,100.0,0,0,"Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables","Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables"
+43,8,90,5,70,8000,100.0,0,0,"Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables","Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables"
+43,8,90,5,70,8000,100.0,0,0,"Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables","Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables"
+43,8,90,5,70,8000,100.0,0,0,"Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables","Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables"
+43,6,45,7,72,6000,100.0,2,2,"Breakfast: whole-grain toast + scrambled eggs + spinach
+Lunch: chicken / tofu bowl with brown rice + steamed vegetables
+Snack: banana + almonds
+Dinner: grilled white fish + light vegetable soup","Breakfast: whole-grain toast + scrambled eggs + spinach
+Lunch: chicken / tofu bowl with brown rice + steamed vegetables
+Snack: banana + almonds
+Dinner: grilled white fish + light vegetable soup"
+44,7,45,4,65,6000,105.0,2,1,"Breakfast: oatmeal + chopped apples + little cinnamon
+Lunch: steamed fish + steamed broccoli and carrots + brown rice
+Snack: unsalted almonds + pear / orange
+Dinner: vegetable soup + grilled tofu + sweet potato","Breakfast: oatmeal + chopped apples + little cinnamon
+Lunch: steamed fish + steamed broccoli and carrots + brown rice
+Snack: unsalted almonds + pear / orange
+Dinner: vegetable soup + grilled tofu + sweet potato"
+44,6,45,7,72,6000,100.0,2,2,"Breakfast: whole-grain toast + scrambled eggs + spinach
+Lunch: chicken / tofu bowl with brown rice + steamed vegetables
+Snack: banana + almonds
+Dinner: grilled white fish + light vegetable soup","Breakfast: whole-grain toast + scrambled eggs + spinach
+Lunch: chicken / tofu bowl with brown rice + steamed vegetables
+Snack: banana + almonds
+Dinner: grilled white fish + light vegetable soup"
+44,6,45,7,72,6000,100.0,2,2,"Breakfast: whole-grain toast + scrambled eggs + spinach
+Lunch: chicken / tofu bowl with brown rice + steamed vegetables
+Snack: banana + almonds
+Dinner: grilled white fish + light vegetable soup","Breakfast: whole-grain toast + scrambled eggs + spinach
+Lunch: chicken / tofu bowl with brown rice + steamed vegetables
+Snack: banana + almonds
+Dinner: grilled white fish + light vegetable soup"
+44,6,45,7,72,6000,100.0,2,2,"Breakfast: whole-grain toast + scrambled eggs + spinach
+Lunch: chicken / tofu bowl with brown rice + steamed vegetables
+Snack: banana + almonds
+Dinner: grilled white fish + light vegetable soup","Breakfast: whole-grain toast + scrambled eggs + spinach
+Lunch: chicken / tofu bowl with brown rice + steamed vegetables
+Snack: banana + almonds
+Dinner: grilled white fish + light vegetable soup"
+44,7,45,4,65,6000,105.0,2,1,"Breakfast: oatmeal + chopped apples + little cinnamon
+Lunch: steamed fish + steamed broccoli and carrots + brown rice
+Snack: unsalted almonds + pear / orange
+Dinner: vegetable soup + grilled tofu + sweet potato","Breakfast: oatmeal + chopped apples + little cinnamon
+Lunch: steamed fish + steamed broccoli and carrots + brown rice
+Snack: unsalted almonds + pear / orange
+Dinner: vegetable soup + grilled tofu + sweet potato"
+44,6,45,7,72,6000,100.0,2,2,"Breakfast: whole-grain toast + scrambled eggs + spinach
+Lunch: chicken / tofu bowl with brown rice + steamed vegetables
+Snack: banana + almonds
+Dinner: grilled white fish + light vegetable soup","Breakfast: whole-grain toast + scrambled eggs + spinach
+Lunch: chicken / tofu bowl with brown rice + steamed vegetables
+Snack: banana + almonds
+Dinner: grilled white fish + light vegetable soup"
+44,7,45,4,65,6000,105.0,2,1,"Breakfast: oatmeal + chopped apples + little cinnamon
+Lunch: steamed fish + steamed broccoli and carrots + brown rice
+Snack: unsalted almonds + pear / orange
+Dinner: vegetable soup + grilled tofu + sweet potato","Breakfast: oatmeal + chopped apples + little cinnamon
+Lunch: steamed fish + steamed broccoli and carrots + brown rice
+Snack: unsalted almonds + pear / orange
+Dinner: vegetable soup + grilled tofu + sweet potato"
+44,6,45,7,72,6000,100.0,2,2,"Breakfast: whole-grain toast + scrambled eggs + spinach
+Lunch: chicken / tofu bowl with brown rice + steamed vegetables
+Snack: banana + almonds
+Dinner: grilled white fish + light vegetable soup","Breakfast: whole-grain toast + scrambled eggs + spinach
+Lunch: chicken / tofu bowl with brown rice + steamed vegetables
+Snack: banana + almonds
+Dinner: grilled white fish + light vegetable soup"
+44,7,45,4,65,6000,105.0,2,1,"Breakfast: oatmeal + chopped apples + little cinnamon
+Lunch: steamed fish + steamed broccoli and carrots + brown rice
+Snack: unsalted almonds + pear / orange
+Dinner: vegetable soup + grilled tofu + sweet potato","Breakfast: oatmeal + chopped apples + little cinnamon
+Lunch: steamed fish + steamed broccoli and carrots + brown rice
+Snack: unsalted almonds + pear / orange
+Dinner: vegetable soup + grilled tofu + sweet potato"
+44,6,45,7,72,6000,100.0,2,2,"Breakfast: whole-grain toast + scrambled eggs + spinach
+Lunch: chicken / tofu bowl with brown rice + steamed vegetables
+Snack: banana + almonds
+Dinner: grilled white fish + light vegetable soup","Breakfast: whole-grain toast + scrambled eggs + spinach
+Lunch: chicken / tofu bowl with brown rice + steamed vegetables
+Snack: banana + almonds
+Dinner: grilled white fish + light vegetable soup"
+44,7,45,4,65,6000,105.0,2,1,"Breakfast: oatmeal + chopped apples + little cinnamon
+Lunch: steamed fish + steamed broccoli and carrots + brown rice
+Snack: unsalted almonds + pear / orange
+Dinner: vegetable soup + grilled tofu + sweet potato","Breakfast: oatmeal + chopped apples + little cinnamon
+Lunch: steamed fish + steamed broccoli and carrots + brown rice
+Snack: unsalted almonds + pear / orange
+Dinner: vegetable soup + grilled tofu + sweet potato"
+44,6,45,7,72,6000,100.0,2,2,"Breakfast: whole-grain toast + scrambled eggs + spinach
+Lunch: chicken / tofu bowl with brown rice + steamed vegetables
+Snack: banana + almonds
+Dinner: grilled white fish + light vegetable soup","Breakfast: whole-grain toast + scrambled eggs + spinach
+Lunch: chicken / tofu bowl with brown rice + steamed vegetables
+Snack: banana + almonds
+Dinner: grilled white fish + light vegetable soup"
+44,7,45,4,65,6000,105.0,2,1,"Breakfast: oatmeal + chopped apples + little cinnamon
+Lunch: steamed fish + steamed broccoli and carrots + brown rice
+Snack: unsalted almonds + pear / orange
+Dinner: vegetable soup + grilled tofu + sweet potato","Breakfast: oatmeal + chopped apples + little cinnamon
+Lunch: steamed fish + steamed broccoli and carrots + brown rice
+Snack: unsalted almonds + pear / orange
+Dinner: vegetable soup + grilled tofu + sweet potato"
+44,6,45,7,72,6000,100.0,2,2,"Breakfast: whole-grain toast + scrambled eggs + spinach
+Lunch: chicken / tofu bowl with brown rice + steamed vegetables
+Snack: banana + almonds
+Dinner: grilled white fish + light vegetable soup","Breakfast: whole-grain toast + scrambled eggs + spinach
+Lunch: chicken / tofu bowl with brown rice + steamed vegetables
+Snack: banana + almonds
+Dinner: grilled white fish + light vegetable soup"
+44,7,45,4,65,6000,105.0,2,1,"Breakfast: oatmeal + chopped apples + little cinnamon
+Lunch: steamed fish + steamed broccoli and carrots + brown rice
+Snack: unsalted almonds + pear / orange
+Dinner: vegetable soup + grilled tofu + sweet potato","Breakfast: oatmeal + chopped apples + little cinnamon
+Lunch: steamed fish + steamed broccoli and carrots + brown rice
+Snack: unsalted almonds + pear / orange
+Dinner: vegetable soup + grilled tofu + sweet potato"
+44,6,45,7,72,6000,100.0,2,2,"Breakfast: whole-grain toast + scrambled eggs + spinach
+Lunch: chicken / tofu bowl with brown rice + steamed vegetables
+Snack: banana + almonds
+Dinner: grilled white fish + light vegetable soup","Breakfast: whole-grain toast + scrambled eggs + spinach
+Lunch: chicken / tofu bowl with brown rice + steamed vegetables
+Snack: banana + almonds
+Dinner: grilled white fish + light vegetable soup"
+44,6,45,7,72,6000,100.0,2,2,"Breakfast: whole-grain toast + scrambled eggs + spinach
+Lunch: chicken / tofu bowl with brown rice + steamed vegetables
+Snack: banana + almonds
+Dinner: grilled white fish + light vegetable soup","Breakfast: whole-grain toast + scrambled eggs + spinach
+Lunch: chicken / tofu bowl with brown rice + steamed vegetables
+Snack: banana + almonds
+Dinner: grilled white fish + light vegetable soup"
+44,7,45,4,65,6000,105.0,2,1,"Breakfast: oatmeal + chopped apples + little cinnamon
+Lunch: steamed fish + steamed broccoli and carrots + brown rice
+Snack: unsalted almonds + pear / orange
+Dinner: vegetable soup + grilled tofu + sweet potato","Breakfast: oatmeal + chopped apples + little cinnamon
+Lunch: steamed fish + steamed broccoli and carrots + brown rice
+Snack: unsalted almonds + pear / orange
+Dinner: vegetable soup + grilled tofu + sweet potato"
+44,6,45,7,72,6000,100.0,2,2,"Breakfast: whole-grain toast + scrambled eggs + spinach
+Lunch: chicken / tofu bowl with brown rice + steamed vegetables
+Snack: banana + almonds
+Dinner: grilled white fish + light vegetable soup","Breakfast: whole-grain toast + scrambled eggs + spinach
+Lunch: chicken / tofu bowl with brown rice + steamed vegetables
+Snack: banana + almonds
+Dinner: grilled white fish + light vegetable soup"
+44,6,45,7,72,6000,100.0,2,2,"Breakfast: whole-grain toast + scrambled eggs + spinach
+Lunch: chicken / tofu bowl with brown rice + steamed vegetables
+Snack: banana + almonds
+Dinner: grilled white fish + light vegetable soup","Breakfast: whole-grain toast + scrambled eggs + spinach
+Lunch: chicken / tofu bowl with brown rice + steamed vegetables
+Snack: banana + almonds
+Dinner: grilled white fish + light vegetable soup"
+44,7,45,4,65,6000,105.0,2,1,"Breakfast: oatmeal + chopped apples + little cinnamon
+Lunch: steamed fish + steamed broccoli and carrots + brown rice
+Snack: unsalted almonds + pear / orange
+Dinner: vegetable soup + grilled tofu + sweet potato","Breakfast: oatmeal + chopped apples + little cinnamon
+Lunch: steamed fish + steamed broccoli and carrots + brown rice
+Snack: unsalted almonds + pear / orange
+Dinner: vegetable soup + grilled tofu + sweet potato"
+44,6,45,7,72,6000,100.0,2,2,"Breakfast: whole-grain toast + scrambled eggs + spinach
+Lunch: chicken / tofu bowl with brown rice + steamed vegetables
+Snack: banana + almonds
+Dinner: grilled white fish + light vegetable soup","Breakfast: whole-grain toast + scrambled eggs + spinach
+Lunch: chicken / tofu bowl with brown rice + steamed vegetables
+Snack: banana + almonds
+Dinner: grilled white fish + light vegetable soup"
+44,6,45,7,72,6000,100.0,2,2,"Breakfast: whole-grain toast + scrambled eggs + spinach
+Lunch: chicken / tofu bowl with brown rice + steamed vegetables
+Snack: banana + almonds
+Dinner: grilled white fish + light vegetable soup","Breakfast: whole-grain toast + scrambled eggs + spinach
+Lunch: chicken / tofu bowl with brown rice + steamed vegetables
+Snack: banana + almonds
+Dinner: grilled white fish + light vegetable soup"
+44,7,45,4,65,6000,105.0,2,1,"Breakfast: oatmeal + chopped apples + little cinnamon
+Lunch: steamed fish + steamed broccoli and carrots + brown rice
+Snack: unsalted almonds + pear / orange
+Dinner: vegetable soup + grilled tofu + sweet potato","Breakfast: oatmeal + chopped apples + little cinnamon
+Lunch: steamed fish + steamed broccoli and carrots + brown rice
+Snack: unsalted almonds + pear / orange
+Dinner: vegetable soup + grilled tofu + sweet potato"
+44,6,45,7,72,6000,100.0,2,2,"Breakfast: whole-grain toast + scrambled eggs + spinach
+Lunch: chicken / tofu bowl with brown rice + steamed vegetables
+Snack: banana + almonds
+Dinner: grilled white fish + light vegetable soup","Breakfast: whole-grain toast + scrambled eggs + spinach
+Lunch: chicken / tofu bowl with brown rice + steamed vegetables
+Snack: banana + almonds
+Dinner: grilled white fish + light vegetable soup"
+44,7,45,4,65,6000,105.0,2,1,"Breakfast: oatmeal + chopped apples + little cinnamon
+Lunch: steamed fish + steamed broccoli and carrots + brown rice
+Snack: unsalted almonds + pear / orange
+Dinner: vegetable soup + grilled tofu + sweet potato","Breakfast: oatmeal + chopped apples + little cinnamon
+Lunch: steamed fish + steamed broccoli and carrots + brown rice
+Snack: unsalted almonds + pear / orange
+Dinner: vegetable soup + grilled tofu + sweet potato"
+44,6,45,7,72,6000,100.0,2,2,"Breakfast: whole-grain toast + scrambled eggs + spinach
+Lunch: chicken / tofu bowl with brown rice + steamed vegetables
+Snack: banana + almonds
+Dinner: grilled white fish + light vegetable soup","Breakfast: whole-grain toast + scrambled eggs + spinach
+Lunch: chicken / tofu bowl with brown rice + steamed vegetables
+Snack: banana + almonds
+Dinner: grilled white fish + light vegetable soup"
+44,7,45,7,78,5000,100.0,2,2,"Breakfast: 0atmeal + berries + nuts
+Lunch: grilled fish + steamed vegetables + brown rice
+Snack: fresh fruits + nuts
+Dinner: stir-fried meat + light stir_fried vegetables / tofu + brown rice","Breakfast: 0atmeal + berries + nuts
+Lunch: grilled fish + steamed vegetables + brown rice
+Snack: fresh fruits + nuts
+Dinner: stir-fried meat + light stir_fried vegetables / tofu + brown rice"
+44,6,45,7,72,6000,100.0,2,2,"Breakfast: whole-grain toast + scrambled eggs + spinach
+Lunch: chicken / tofu bowl with brown rice + steamed vegetables
+Snack: banana + almonds
+Dinner: grilled white fish + light vegetable soup","Breakfast: whole-grain toast + scrambled eggs + spinach
+Lunch: chicken / tofu bowl with brown rice + steamed vegetables
+Snack: banana + almonds
+Dinner: grilled white fish + light vegetable soup"
+44,6,45,7,72,6000,100.0,2,2,"Breakfast: whole-grain toast + scrambled eggs + spinach
+Lunch: chicken / tofu bowl with brown rice + steamed vegetables
+Snack: banana + almonds
+Dinner: grilled white fish + light vegetable soup","Breakfast: whole-grain toast + scrambled eggs + spinach
+Lunch: chicken / tofu bowl with brown rice + steamed vegetables
+Snack: banana + almonds
+Dinner: grilled white fish + light vegetable soup"
+45,7,30,6,65,6000,105.0,2,1,"Breakfast: oatmeal + chopped apples + little cinnamon
+Lunch: steamed fish + steamed broccoli and carrots + brown rice
+Snack: unsalted almonds + pear / orange
+Dinner: vegetable soup + grilled tofu + sweet potato","Breakfast: oatmeal + chopped apples + little cinnamon
+Lunch: steamed fish + steamed broccoli and carrots + brown rice
+Snack: unsalted almonds + pear / orange
+Dinner: vegetable soup + grilled tofu + sweet potato"
+45,7,30,6,65,6000,105.0,2,1,"Breakfast: oatmeal + chopped apples + little cinnamon
+Lunch: steamed fish + steamed broccoli and carrots + brown rice
+Snack: unsalted almonds + pear / orange
+Dinner: vegetable soup + grilled tofu + sweet potato","Breakfast: oatmeal + chopped apples + little cinnamon
+Lunch: steamed fish + steamed broccoli and carrots + brown rice
+Snack: unsalted almonds + pear / orange
+Dinner: vegetable soup + grilled tofu + sweet potato"
+45,7,45,4,65,6000,105.0,2,1,"Breakfast: oatmeal + chopped apples + little cinnamon
+Lunch: steamed fish + steamed broccoli and carrots + brown rice
+Snack: unsalted almonds + pear / orange
+Dinner: vegetable soup + grilled tofu + sweet potato","Breakfast: oatmeal + chopped apples + little cinnamon
+Lunch: steamed fish + steamed broccoli and carrots + brown rice
+Snack: unsalted almonds + pear / orange
+Dinner: vegetable soup + grilled tofu + sweet potato"
+45,7,45,4,65,6000,105.0,2,1,"Breakfast: oatmeal + chopped apples + little cinnamon
+Lunch: steamed fish + steamed broccoli and carrots + brown rice
+Snack: unsalted almonds + pear / orange
+Dinner: vegetable soup + grilled tofu + sweet potato","Breakfast: oatmeal + chopped apples + little cinnamon
+Lunch: steamed fish + steamed broccoli and carrots + brown rice
+Snack: unsalted almonds + pear / orange
+Dinner: vegetable soup + grilled tofu + sweet potato"
+45,7,45,4,65,6000,105.0,2,1,"Breakfast: oatmeal + chopped apples + little cinnamon
+Lunch: steamed fish + steamed broccoli and carrots + brown rice
+Snack: unsalted almonds + pear / orange
+Dinner: vegetable soup + grilled tofu + sweet potato","Breakfast: oatmeal + chopped apples + little cinnamon
+Lunch: steamed fish + steamed broccoli and carrots + brown rice
+Snack: unsalted almonds + pear / orange
+Dinner: vegetable soup + grilled tofu + sweet potato"
+45,7,45,4,65,6000,105.0,2,1,"Breakfast: oatmeal + chopped apples + little cinnamon
+Lunch: steamed fish + steamed broccoli and carrots + brown rice
+Snack: unsalted almonds + pear / orange
+Dinner: vegetable soup + grilled tofu + sweet potato","Breakfast: oatmeal + chopped apples + little cinnamon
+Lunch: steamed fish + steamed broccoli and carrots + brown rice
+Snack: unsalted almonds + pear / orange
+Dinner: vegetable soup + grilled tofu + sweet potato"
+45,7,45,4,65,6000,105.0,2,1,"Breakfast: oatmeal + chopped apples + little cinnamon
+Lunch: steamed fish + steamed broccoli and carrots + brown rice
+Snack: unsalted almonds + pear / orange
+Dinner: vegetable soup + grilled tofu + sweet potato","Breakfast: oatmeal + chopped apples + little cinnamon
+Lunch: steamed fish + steamed broccoli and carrots + brown rice
+Snack: unsalted almonds + pear / orange
+Dinner: vegetable soup + grilled tofu + sweet potato"
+45,7,45,4,65,6000,105.0,2,1,"Breakfast: oatmeal + chopped apples + little cinnamon
+Lunch: steamed fish + steamed broccoli and carrots + brown rice
+Snack: unsalted almonds + pear / orange
+Dinner: vegetable soup + grilled tofu + sweet potato","Breakfast: oatmeal + chopped apples + little cinnamon
+Lunch: steamed fish + steamed broccoli and carrots + brown rice
+Snack: unsalted almonds + pear / orange
+Dinner: vegetable soup + grilled tofu + sweet potato"
+45,7,45,4,65,6000,105.0,2,1,"Breakfast: oatmeal + chopped apples + little cinnamon
+Lunch: steamed fish + steamed broccoli and carrots + brown rice
+Snack: unsalted almonds + pear / orange
+Dinner: vegetable soup + grilled tofu + sweet potato","Breakfast: oatmeal + chopped apples + little cinnamon
+Lunch: steamed fish + steamed broccoli and carrots + brown rice
+Snack: unsalted almonds + pear / orange
+Dinner: vegetable soup + grilled tofu + sweet potato"
+45,7,45,4,65,6000,105.0,2,1,"Breakfast: oatmeal + chopped apples + little cinnamon
+Lunch: steamed fish + steamed broccoli and carrots + brown rice
+Snack: unsalted almonds + pear / orange
+Dinner: vegetable soup + grilled tofu + sweet potato","Breakfast: oatmeal + chopped apples + little cinnamon
+Lunch: steamed fish + steamed broccoli and carrots + brown rice
+Snack: unsalted almonds + pear / orange
+Dinner: vegetable soup + grilled tofu + sweet potato"
+45,7,45,4,65,6000,105.0,2,1,"Breakfast: oatmeal + chopped apples + little cinnamon
+Lunch: steamed fish + steamed broccoli and carrots + brown rice
+Snack: unsalted almonds + pear / orange
+Dinner: vegetable soup + grilled tofu + sweet potato","Breakfast: oatmeal + chopped apples + little cinnamon
+Lunch: steamed fish + steamed broccoli and carrots + brown rice
+Snack: unsalted almonds + pear / orange
+Dinner: vegetable soup + grilled tofu + sweet potato"
+45,7,45,4,65,6000,105.0,2,1,"Breakfast: oatmeal + chopped apples + little cinnamon
+Lunch: steamed fish + steamed broccoli and carrots + brown rice
+Snack: unsalted almonds + pear / orange
+Dinner: vegetable soup + grilled tofu + sweet potato","Breakfast: oatmeal + chopped apples + little cinnamon
+Lunch: steamed fish + steamed broccoli and carrots + brown rice
+Snack: unsalted almonds + pear / orange
+Dinner: vegetable soup + grilled tofu + sweet potato"
+45,7,45,4,65,6000,105.0,2,1,"Breakfast: oatmeal + chopped apples + little cinnamon
+Lunch: steamed fish + steamed broccoli and carrots + brown rice
+Snack: unsalted almonds + pear / orange
+Dinner: vegetable soup + grilled tofu + sweet potato","Breakfast: oatmeal + chopped apples + little cinnamon
+Lunch: steamed fish + steamed broccoli and carrots + brown rice
+Snack: unsalted almonds + pear / orange
+Dinner: vegetable soup + grilled tofu + sweet potato"
+45,7,55,5,75,5500,96.33333333333333,2,2,"Breakfast: 0atmeal + berries + nuts
+Lunch: grilled fish + steamed vegetables + brown rice
+Snack: fresh fruits + nuts
+Dinner: stir-fried meat + light stir_fried vegetables / tofu + brown rice","Breakfast: 0atmeal + berries + nuts
+Lunch: grilled fish + steamed vegetables + brown rice
+Snack: fresh fruits + nuts
+Dinner: stir-fried meat + light stir_fried vegetables / tofu + brown rice"
+48,7,65,5,83,3500,108.66666666666666,1,2,"Breakfast: greek yogurt + berries + flax seeds
+Lunch: grilled chicken salad + leafy greens, tomato, cucumber + quinoa
+Snack: apple slices + almonds
+Dinner: stir-fried vegetables + brown rice + herbal tea","Breakfast: greek yogurt + berries + flax seeds
+Lunch: grilled chicken salad + leafy greens, tomato, cucumber + quinoa
+Snack: apple slices + almonds
+Dinner: stir-fried vegetables + brown rice + herbal tea"
+48,6,90,8,75,10000,110.0,2,1,"Breakfast: greek yogurt + berries + chia seeds
+Lunch: grilled chicken / turkey + steamd green beans / zucchini / bell peppers + brown rice
+Snack: banana / kiwi + walnuts
+Dinner: light vegetable stir-fry + tofu + whole-grain pasta / quinoa","Breakfast: greek yogurt + berries + chia seeds
+Lunch: grilled chicken / turkey + steamd green beans / zucchini / bell peppers + brown rice
+Snack: banana / kiwi + walnuts
+Dinner: light vegetable stir-fry + tofu + whole-grain pasta / quinoa"
+48,7,65,5,83,3500,108.66666666666666,1,2,"Breakfast: greek yogurt + berries + flax seeds
+Lunch: grilled chicken salad + leafy greens, tomato, cucumber + quinoa
+Snack: apple slices + almonds
+Dinner: stir-fried vegetables + brown rice + herbal tea","Breakfast: greek yogurt + berries + flax seeds
+Lunch: grilled chicken salad + leafy greens, tomato, cucumber + quinoa
+Snack: apple slices + almonds
+Dinner: stir-fried vegetables + brown rice + herbal tea"
+49,6,90,8,75,10000,110.0,2,1,"Breakfast: greek yogurt + berries + chia seeds
+Lunch: grilled chicken / turkey + steamd green beans / zucchini / bell peppers + brown rice
+Snack: banana / kiwi + walnuts
+Dinner: light vegetable stir-fry + tofu + whole-grain pasta / quinoa","Breakfast: greek yogurt + berries + chia seeds
+Lunch: grilled chicken / turkey + steamd green beans / zucchini / bell peppers + brown rice
+Snack: banana / kiwi + walnuts
+Dinner: light vegetable stir-fry + tofu + whole-grain pasta / quinoa"
+49,6,90,8,75,10000,110.0,2,1,"Breakfast: greek yogurt + berries + chia seeds
+Lunch: grilled chicken / turkey + steamd green beans / zucchini / bell peppers + brown rice
+Snack: banana / kiwi + walnuts
+Dinner: light vegetable stir-fry + tofu + whole-grain pasta / quinoa","Breakfast: greek yogurt + berries + chia seeds
+Lunch: grilled chicken / turkey + steamd green beans / zucchini / bell peppers + brown rice
+Snack: banana / kiwi + walnuts
+Dinner: light vegetable stir-fry + tofu + whole-grain pasta / quinoa"
+49,6,90,8,75,10000,110.0,2,1,"Breakfast: greek yogurt + berries + chia seeds
+Lunch: grilled chicken / turkey + steamd green beans / zucchini / bell peppers + brown rice
+Snack: banana / kiwi + walnuts
+Dinner: light vegetable stir-fry + tofu + whole-grain pasta / quinoa","Breakfast: greek yogurt + berries + chia seeds
+Lunch: grilled chicken / turkey + steamd green beans / zucchini / bell peppers + brown rice
+Snack: banana / kiwi + walnuts
+Dinner: light vegetable stir-fry + tofu + whole-grain pasta / quinoa"
+49,6,90,8,75,10000,110.0,2,1,"Breakfast: greek yogurt + berries + chia seeds
+Lunch: grilled chicken / turkey + steamd green beans / zucchini / bell peppers + brown rice
+Snack: banana / kiwi + walnuts
+Dinner: light vegetable stir-fry + tofu + whole-grain pasta / quinoa","Breakfast: greek yogurt + berries + chia seeds
+Lunch: grilled chicken / turkey + steamd green beans / zucchini / bell peppers + brown rice
+Snack: banana / kiwi + walnuts
+Dinner: light vegetable stir-fry + tofu + whole-grain pasta / quinoa"
+49,6,90,8,75,10000,110.0,2,1,"Breakfast: greek yogurt + berries + chia seeds
+Lunch: grilled chicken / turkey + steamd green beans / zucchini / bell peppers + brown rice
+Snack: banana / kiwi + walnuts
+Dinner: light vegetable stir-fry + tofu + whole-grain pasta / quinoa","Breakfast: greek yogurt + berries + chia seeds
+Lunch: grilled chicken / turkey + steamd green beans / zucchini / bell peppers + brown rice
+Snack: banana / kiwi + walnuts
+Dinner: light vegetable stir-fry + tofu + whole-grain pasta / quinoa"
+49,6,90,8,75,10000,110.0,2,1,"Breakfast: greek yogurt + berries + chia seeds
+Lunch: grilled chicken / turkey + steamd green beans / zucchini / bell peppers + brown rice
+Snack: banana / kiwi + walnuts
+Dinner: light vegetable stir-fry + tofu + whole-grain pasta / quinoa","Breakfast: greek yogurt + berries + chia seeds
+Lunch: grilled chicken / turkey + steamd green beans / zucchini / bell peppers + brown rice
+Snack: banana / kiwi + walnuts
+Dinner: light vegetable stir-fry + tofu + whole-grain pasta / quinoa"
+49,6,90,8,75,10000,110.0,2,1,"Breakfast: greek yogurt + berries + chia seeds
+Lunch: grilled chicken / turkey + steamd green beans / zucchini / bell peppers + brown rice
+Snack: banana / kiwi + walnuts
+Dinner: light vegetable stir-fry + tofu + whole-grain pasta / quinoa","Breakfast: greek yogurt + berries + chia seeds
+Lunch: grilled chicken / turkey + steamd green beans / zucchini / bell peppers + brown rice
+Snack: banana / kiwi + walnuts
+Dinner: light vegetable stir-fry + tofu + whole-grain pasta / quinoa"
+49,6,90,8,75,10000,110.0,2,1,"Breakfast: greek yogurt + berries + chia seeds
+Lunch: grilled chicken / turkey + steamd green beans / zucchini / bell peppers + brown rice
+Snack: banana / kiwi + walnuts
+Dinner: light vegetable stir-fry + tofu + whole-grain pasta / quinoa","Breakfast: greek yogurt + berries + chia seeds
+Lunch: grilled chicken / turkey + steamd green beans / zucchini / bell peppers + brown rice
+Snack: banana / kiwi + walnuts
+Dinner: light vegetable stir-fry + tofu + whole-grain pasta / quinoa"
+49,6,90,8,75,10000,110.0,2,1,"Breakfast: greek yogurt + berries + chia seeds
+Lunch: grilled chicken / turkey + steamd green beans / zucchini / bell peppers + brown rice
+Snack: banana / kiwi + walnuts
+Dinner: light vegetable stir-fry + tofu + whole-grain pasta / quinoa","Breakfast: greek yogurt + berries + chia seeds
+Lunch: grilled chicken / turkey + steamd green beans / zucchini / bell peppers + brown rice
+Snack: banana / kiwi + walnuts
+Dinner: light vegetable stir-fry + tofu + whole-grain pasta / quinoa"
+49,9,85,3,86,3700,107.0,1,1,"Breakfast: whole-grain toast / multigrain porridge + scrambled eggs / soft-boiled egg
+Lunch: grilled fish + steamed vegetables + brown rice
+Snack: unsalted nuts + fresh fruit
+Dinner: broth-based stew + light stir-fried tofu / chicken + whole grains","Breakfast: whole-grain toast / multigrain porridge + scrambled eggs / soft-boiled egg
+Lunch: grilled fish + steamed vegetables + brown rice
+Snack: unsalted nuts + fresh fruit
+Dinner: broth-based stew + light stir-fried tofu / chicken + whole grains"
+49,9,85,3,86,3700,107.0,1,1,"Breakfast: whole-grain toast / multigrain porridge + scrambled eggs / soft-boiled egg
+Lunch: grilled fish + steamed vegetables + brown rice
+Snack: unsalted nuts + fresh fruit
+Dinner: broth-based stew + light stir-fried tofu / chicken + whole grains","Breakfast: whole-grain toast / multigrain porridge + scrambled eggs / soft-boiled egg
+Lunch: grilled fish + steamed vegetables + brown rice
+Snack: unsalted nuts + fresh fruit
+Dinner: broth-based stew + light stir-fried tofu / chicken + whole grains"
+50,6,90,8,75,10000,110.0,2,1,"Breakfast: greek yogurt + berries + chia seeds
+Lunch: grilled chicken / turkey + steamd green beans / zucchini / bell peppers + brown rice
+Snack: banana / kiwi + walnuts
+Dinner: light vegetable stir-fry + tofu + whole-grain pasta / quinoa","Breakfast: greek yogurt + berries + chia seeds
+Lunch: grilled chicken / turkey + steamd green beans / zucchini / bell peppers + brown rice
+Snack: banana / kiwi + walnuts
+Dinner: light vegetable stir-fry + tofu + whole-grain pasta / quinoa"
+50,9,30,3,65,5000,95.0,0,0,"Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables","Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables"
+50,6,90,8,75,10000,110.0,2,1,"Breakfast: greek yogurt + berries + chia seeds
+Lunch: grilled chicken / turkey + steamd green beans / zucchini / bell peppers + brown rice
+Snack: banana / kiwi + walnuts
+Dinner: light vegetable stir-fry + tofu + whole-grain pasta / quinoa","Breakfast: greek yogurt + berries + chia seeds
+Lunch: grilled chicken / turkey + steamd green beans / zucchini / bell peppers + brown rice
+Snack: banana / kiwi + walnuts
+Dinner: light vegetable stir-fry + tofu + whole-grain pasta / quinoa"
+50,6,90,8,75,10000,110.0,2,1,"Breakfast: greek yogurt + berries + chia seeds
+Lunch: grilled chicken / turkey + steamd green beans / zucchini / bell peppers + brown rice
+Snack: banana / kiwi + walnuts
+Dinner: light vegetable stir-fry + tofu + whole-grain pasta / quinoa","Breakfast: greek yogurt + berries + chia seeds
+Lunch: grilled chicken / turkey + steamd green beans / zucchini / bell peppers + brown rice
+Snack: banana / kiwi + walnuts
+Dinner: light vegetable stir-fry + tofu + whole-grain pasta / quinoa"
+50,6,90,8,75,10000,110.0,2,1,"Breakfast: greek yogurt + berries + chia seeds
+Lunch: grilled chicken / turkey + steamd green beans / zucchini / bell peppers + brown rice
+Snack: banana / kiwi + walnuts
+Dinner: light vegetable stir-fry + tofu + whole-grain pasta / quinoa","Breakfast: greek yogurt + berries + chia seeds
+Lunch: grilled chicken / turkey + steamd green beans / zucchini / bell peppers + brown rice
+Snack: banana / kiwi + walnuts
+Dinner: light vegetable stir-fry + tofu + whole-grain pasta / quinoa"
+50,6,90,8,75,10000,110.0,2,1,"Breakfast: greek yogurt + berries + chia seeds
+Lunch: grilled chicken / turkey + steamd green beans / zucchini / bell peppers + brown rice
+Snack: banana / kiwi + walnuts
+Dinner: light vegetable stir-fry + tofu + whole-grain pasta / quinoa","Breakfast: greek yogurt + berries + chia seeds
+Lunch: grilled chicken / turkey + steamd green beans / zucchini / bell peppers + brown rice
+Snack: banana / kiwi + walnuts
+Dinner: light vegetable stir-fry + tofu + whole-grain pasta / quinoa"
+50,6,90,8,75,10000,110.0,2,1,"Breakfast: greek yogurt + berries + chia seeds
+Lunch: grilled chicken / turkey + steamd green beans / zucchini / bell peppers + brown rice
+Snack: banana / kiwi + walnuts
+Dinner: light vegetable stir-fry + tofu + whole-grain pasta / quinoa","Breakfast: greek yogurt + berries + chia seeds
+Lunch: grilled chicken / turkey + steamd green beans / zucchini / bell peppers + brown rice
+Snack: banana / kiwi + walnuts
+Dinner: light vegetable stir-fry + tofu + whole-grain pasta / quinoa"
+50,6,90,8,75,10000,110.0,2,1,"Breakfast: greek yogurt + berries + chia seeds
+Lunch: grilled chicken / turkey + steamd green beans / zucchini / bell peppers + brown rice
+Snack: banana / kiwi + walnuts
+Dinner: light vegetable stir-fry + tofu + whole-grain pasta / quinoa","Breakfast: greek yogurt + berries + chia seeds
+Lunch: grilled chicken / turkey + steamd green beans / zucchini / bell peppers + brown rice
+Snack: banana / kiwi + walnuts
+Dinner: light vegetable stir-fry + tofu + whole-grain pasta / quinoa"
+50,6,90,8,75,10000,110.0,2,1,"Breakfast: greek yogurt + berries + chia seeds
+Lunch: grilled chicken / turkey + steamd green beans / zucchini / bell peppers + brown rice
+Snack: banana / kiwi + walnuts
+Dinner: light vegetable stir-fry + tofu + whole-grain pasta / quinoa","Breakfast: greek yogurt + berries + chia seeds
+Lunch: grilled chicken / turkey + steamd green beans / zucchini / bell peppers + brown rice
+Snack: banana / kiwi + walnuts
+Dinner: light vegetable stir-fry + tofu + whole-grain pasta / quinoa"
+50,6,90,8,75,10000,110.0,2,1,"Breakfast: greek yogurt + berries + chia seeds
+Lunch: grilled chicken / turkey + steamd green beans / zucchini / bell peppers + brown rice
+Snack: banana / kiwi + walnuts
+Dinner: light vegetable stir-fry + tofu + whole-grain pasta / quinoa","Breakfast: greek yogurt + berries + chia seeds
+Lunch: grilled chicken / turkey + steamd green beans / zucchini / bell peppers + brown rice
+Snack: banana / kiwi + walnuts
+Dinner: light vegetable stir-fry + tofu + whole-grain pasta / quinoa"
+50,6,90,8,75,10000,110.0,2,1,"Breakfast: greek yogurt + berries + chia seeds
+Lunch: grilled chicken / turkey + steamd green beans / zucchini / bell peppers + brown rice
+Snack: banana / kiwi + walnuts
+Dinner: light vegetable stir-fry + tofu + whole-grain pasta / quinoa","Breakfast: greek yogurt + berries + chia seeds
+Lunch: grilled chicken / turkey + steamd green beans / zucchini / bell peppers + brown rice
+Snack: banana / kiwi + walnuts
+Dinner: light vegetable stir-fry + tofu + whole-grain pasta / quinoa"
+50,6,90,8,75,10000,110.0,2,1,"Breakfast: greek yogurt + berries + chia seeds
+Lunch: grilled chicken / turkey + steamd green beans / zucchini / bell peppers + brown rice
+Snack: banana / kiwi + walnuts
+Dinner: light vegetable stir-fry + tofu + whole-grain pasta / quinoa","Breakfast: greek yogurt + berries + chia seeds
+Lunch: grilled chicken / turkey + steamd green beans / zucchini / bell peppers + brown rice
+Snack: banana / kiwi + walnuts
+Dinner: light vegetable stir-fry + tofu + whole-grain pasta / quinoa"
+50,6,90,8,75,10000,110.0,2,1,"Breakfast: greek yogurt + berries + chia seeds
+Lunch: grilled chicken / turkey + steamd green beans / zucchini / bell peppers + brown rice
+Snack: banana / kiwi + walnuts
+Dinner: light vegetable stir-fry + tofu + whole-grain pasta / quinoa","Breakfast: greek yogurt + berries + chia seeds
+Lunch: grilled chicken / turkey + steamd green beans / zucchini / bell peppers + brown rice
+Snack: banana / kiwi + walnuts
+Dinner: light vegetable stir-fry + tofu + whole-grain pasta / quinoa"
+50,6,90,8,75,10000,110.0,2,1,"Breakfast: greek yogurt + berries + chia seeds
+Lunch: grilled chicken / turkey + steamd green beans / zucchini / bell peppers + brown rice
+Snack: banana / kiwi + walnuts
+Dinner: light vegetable stir-fry + tofu + whole-grain pasta / quinoa","Breakfast: greek yogurt + berries + chia seeds
+Lunch: grilled chicken / turkey + steamd green beans / zucchini / bell peppers + brown rice
+Snack: banana / kiwi + walnuts
+Dinner: light vegetable stir-fry + tofu + whole-grain pasta / quinoa"
+50,6,90,8,75,10000,110.0,2,1,"Breakfast: greek yogurt + berries + chia seeds
+Lunch: grilled chicken / turkey + steamd green beans / zucchini / bell peppers + brown rice
+Snack: banana / kiwi + walnuts
+Dinner: light vegetable stir-fry + tofu + whole-grain pasta / quinoa","Breakfast: greek yogurt + berries + chia seeds
+Lunch: grilled chicken / turkey + steamd green beans / zucchini / bell peppers + brown rice
+Snack: banana / kiwi + walnuts
+Dinner: light vegetable stir-fry + tofu + whole-grain pasta / quinoa"
+50,6,90,8,75,10000,110.0,2,1,"Breakfast: greek yogurt + berries + chia seeds
+Lunch: grilled chicken / turkey + steamd green beans / zucchini / bell peppers + brown rice
+Snack: banana / kiwi + walnuts
+Dinner: light vegetable stir-fry + tofu + whole-grain pasta / quinoa","Breakfast: greek yogurt + berries + chia seeds
+Lunch: grilled chicken / turkey + steamd green beans / zucchini / bell peppers + brown rice
+Snack: banana / kiwi + walnuts
+Dinner: light vegetable stir-fry + tofu + whole-grain pasta / quinoa"
+50,6,90,8,75,10000,110.0,2,1,"Breakfast: greek yogurt + berries + chia seeds
+Lunch: grilled chicken / turkey + steamd green beans / zucchini / bell peppers + brown rice
+Snack: banana / kiwi + walnuts
+Dinner: light vegetable stir-fry + tofu + whole-grain pasta / quinoa","Breakfast: greek yogurt + berries + chia seeds
+Lunch: grilled chicken / turkey + steamd green beans / zucchini / bell peppers + brown rice
+Snack: banana / kiwi + walnuts
+Dinner: light vegetable stir-fry + tofu + whole-grain pasta / quinoa"
+50,6,90,8,75,10000,110.0,2,1,"Breakfast: greek yogurt + berries + chia seeds
+Lunch: grilled chicken / turkey + steamd green beans / zucchini / bell peppers + brown rice
+Snack: banana / kiwi + walnuts
+Dinner: light vegetable stir-fry + tofu + whole-grain pasta / quinoa","Breakfast: greek yogurt + berries + chia seeds
+Lunch: grilled chicken / turkey + steamd green beans / zucchini / bell peppers + brown rice
+Snack: banana / kiwi + walnuts
+Dinner: light vegetable stir-fry + tofu + whole-grain pasta / quinoa"
+50,6,90,8,75,10000,110.0,2,1,"Breakfast: greek yogurt + berries + chia seeds
+Lunch: grilled chicken / turkey + steamd green beans / zucchini / bell peppers + brown rice
+Snack: banana / kiwi + walnuts
+Dinner: light vegetable stir-fry + tofu + whole-grain pasta / quinoa","Breakfast: greek yogurt + berries + chia seeds
+Lunch: grilled chicken / turkey + steamd green beans / zucchini / bell peppers + brown rice
+Snack: banana / kiwi + walnuts
+Dinner: light vegetable stir-fry + tofu + whole-grain pasta / quinoa"
+50,6,90,8,75,10000,110.0,2,1,"Breakfast: greek yogurt + berries + chia seeds
+Lunch: grilled chicken / turkey + steamd green beans / zucchini / bell peppers + brown rice
+Snack: banana / kiwi + walnuts
+Dinner: light vegetable stir-fry + tofu + whole-grain pasta / quinoa","Breakfast: greek yogurt + berries + chia seeds
+Lunch: grilled chicken / turkey + steamd green beans / zucchini / bell peppers + brown rice
+Snack: banana / kiwi + walnuts
+Dinner: light vegetable stir-fry + tofu + whole-grain pasta / quinoa"
+51,9,30,3,65,5000,95.0,0,0,"Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables","Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables"
+51,9,30,3,65,5000,95.0,0,0,"Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables","Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables"
+51,9,30,3,65,5000,95.0,0,0,"Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables","Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables"
+51,9,30,3,65,5000,95.0,0,0,"Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables","Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables"
+51,7,55,6,72,6000,96.33333333333333,0,0,"Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables","Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables"
+51,6,90,8,75,10000,110.0,2,1,"Breakfast: greek yogurt + berries + chia seeds
+Lunch: grilled chicken / turkey + steamd green beans / zucchini / bell peppers + brown rice
+Snack: banana / kiwi + walnuts
+Dinner: light vegetable stir-fry + tofu + whole-grain pasta / quinoa","Breakfast: greek yogurt + berries + chia seeds
+Lunch: grilled chicken / turkey + steamd green beans / zucchini / bell peppers + brown rice
+Snack: banana / kiwi + walnuts
+Dinner: light vegetable stir-fry + tofu + whole-grain pasta / quinoa"
+51,6,90,8,75,10000,110.0,2,1,"Breakfast: greek yogurt + berries + chia seeds
+Lunch: grilled chicken / turkey + steamd green beans / zucchini / bell peppers + brown rice
+Snack: banana / kiwi + walnuts
+Dinner: light vegetable stir-fry + tofu + whole-grain pasta / quinoa","Breakfast: greek yogurt + berries + chia seeds
+Lunch: grilled chicken / turkey + steamd green beans / zucchini / bell peppers + brown rice
+Snack: banana / kiwi + walnuts
+Dinner: light vegetable stir-fry + tofu + whole-grain pasta / quinoa"
+51,6,90,8,75,10000,110.0,2,1,"Breakfast: greek yogurt + berries + chia seeds
+Lunch: grilled chicken / turkey + steamd green beans / zucchini / bell peppers + brown rice
+Snack: banana / kiwi + walnuts
+Dinner: light vegetable stir-fry + tofu + whole-grain pasta / quinoa","Breakfast: greek yogurt + berries + chia seeds
+Lunch: grilled chicken / turkey + steamd green beans / zucchini / bell peppers + brown rice
+Snack: banana / kiwi + walnuts
+Dinner: light vegetable stir-fry + tofu + whole-grain pasta / quinoa"
+52,7,45,7,72,6000,100.0,2,2,"Breakfast: 0atmeal + berries + nuts
+Lunch: grilled fish + steamed vegetables + brown rice
+Snack: fresh fruits + nuts
+Dinner: stir-fried meat + light stir_fried vegetables / tofu + brown rice","Breakfast: 0atmeal + berries + nuts
+Lunch: grilled fish + steamed vegetables + brown rice
+Snack: fresh fruits + nuts
+Dinner: stir-fried meat + light stir_fried vegetables / tofu + brown rice"
+52,7,45,7,72,6000,100.0,2,2,"Breakfast: 0atmeal + berries + nuts
+Lunch: grilled fish + steamed vegetables + brown rice
+Snack: fresh fruits + nuts
+Dinner: stir-fried meat + light stir_fried vegetables / tofu + brown rice","Breakfast: 0atmeal + berries + nuts
+Lunch: grilled fish + steamed vegetables + brown rice
+Snack: fresh fruits + nuts
+Dinner: stir-fried meat + light stir_fried vegetables / tofu + brown rice"
+52,7,45,7,72,6000,100.0,2,2,"Breakfast: 0atmeal + berries + nuts
+Lunch: grilled fish + steamed vegetables + brown rice
+Snack: fresh fruits + nuts
+Dinner: stir-fried meat + light stir_fried vegetables / tofu + brown rice","Breakfast: 0atmeal + berries + nuts
+Lunch: grilled fish + steamed vegetables + brown rice
+Snack: fresh fruits + nuts
+Dinner: stir-fried meat + light stir_fried vegetables / tofu + brown rice"
+52,7,45,7,72,6000,100.0,2,2,"Breakfast: 0atmeal + berries + nuts
+Lunch: grilled fish + steamed vegetables + brown rice
+Snack: fresh fruits + nuts
+Dinner: stir-fried meat + light stir_fried vegetables / tofu + brown rice","Breakfast: 0atmeal + berries + nuts
+Lunch: grilled fish + steamed vegetables + brown rice
+Snack: fresh fruits + nuts
+Dinner: stir-fried meat + light stir_fried vegetables / tofu + brown rice"
+52,7,45,7,72,6000,100.0,2,2,"Breakfast: 0atmeal + berries + nuts
+Lunch: grilled fish + steamed vegetables + brown rice
+Snack: fresh fruits + nuts
+Dinner: stir-fried meat + light stir_fried vegetables / tofu + brown rice","Breakfast: 0atmeal + berries + nuts
+Lunch: grilled fish + steamed vegetables + brown rice
+Snack: fresh fruits + nuts
+Dinner: stir-fried meat + light stir_fried vegetables / tofu + brown rice"
+52,7,45,7,72,6000,100.0,2,2,"Breakfast: 0atmeal + berries + nuts
+Lunch: grilled fish + steamed vegetables + brown rice
+Snack: fresh fruits + nuts
+Dinner: stir-fried meat + light stir_fried vegetables / tofu + brown rice","Breakfast: 0atmeal + berries + nuts
+Lunch: grilled fish + steamed vegetables + brown rice
+Snack: fresh fruits + nuts
+Dinner: stir-fried meat + light stir_fried vegetables / tofu + brown rice"
+52,9,30,3,65,5000,95.0,0,0,"Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables","Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables"
+52,9,30,3,65,5000,95.0,0,0,"Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables","Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables"
+52,9,30,3,65,5000,95.0,0,0,"Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables","Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables"
+53,9,30,3,65,5000,95.0,0,0,"Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables","Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables"
+53,9,30,3,65,5000,95.0,0,0,"Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables","Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables"
+53,9,30,3,65,5000,95.0,0,0,"Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables","Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables"
+53,9,30,3,65,5000,95.0,0,0,"Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables","Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables"
+53,9,30,3,65,5000,95.0,0,0,"Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables","Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables"
+53,9,30,3,65,5000,95.0,0,0,"Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables","Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables"
+53,9,30,3,65,5000,95.0,0,0,"Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables","Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables"
+53,9,30,3,65,5000,95.0,0,0,"Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables","Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables"
+53,9,30,3,65,5000,95.0,0,0,"Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables","Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables"
+53,9,30,3,65,5000,95.0,0,0,"Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables","Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables"
+53,9,30,3,65,5000,95.0,0,0,"Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables","Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables"
+53,9,30,3,65,5000,95.0,0,0,"Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables","Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables"
+53,9,30,3,65,5000,95.0,0,0,"Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables","Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables"
+53,9,30,3,65,5000,95.0,0,0,"Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables","Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables"
+53,9,30,3,65,5000,95.0,0,0,"Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables","Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables"
+53,9,30,3,65,5000,95.0,0,0,"Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables","Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables"
+53,9,30,3,65,5000,95.0,0,0,"Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables","Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables"
+54,9,30,3,65,5000,95.0,0,0,"Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables","Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables"
+54,9,30,3,65,5000,95.0,0,0,"Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables","Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables"
+54,9,30,3,65,5000,95.0,0,0,"Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables","Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables"
+54,9,30,3,65,5000,95.0,0,0,"Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables","Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables"
+54,9,30,3,65,5000,95.0,0,0,"Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables","Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables"
+54,9,30,3,65,5000,95.0,0,0,"Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables","Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables"
+54,9,30,3,65,5000,95.0,0,0,"Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables","Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables"
+55,9,75,4,72,5000,110.0,2,1,"Breakfast: whole-grain toast / multigrain porridge + scrambled eggs / soft-boiled egg
+Lunch: grilled fish + steamed vegetables + brown rice
+Snack: unsalted nuts + fresh fruit
+Dinner: broth-based stew + light stir-fried tofu / chicken + whole grains","Breakfast: whole-grain toast / multigrain porridge + scrambled eggs / soft-boiled egg
+Lunch: grilled fish + steamed vegetables + brown rice
+Snack: unsalted nuts + fresh fruit
+Dinner: broth-based stew + light stir-fried tofu / chicken + whole grains"
+55,9,75,4,72,5000,110.0,2,1,"Breakfast: whole-grain toast / multigrain porridge + scrambled eggs / soft-boiled egg
+Lunch: grilled fish + steamed vegetables + brown rice
+Snack: unsalted nuts + fresh fruit
+Dinner: broth-based stew + light stir-fried tofu / chicken + whole grains","Breakfast: whole-grain toast / multigrain porridge + scrambled eggs / soft-boiled egg
+Lunch: grilled fish + steamed vegetables + brown rice
+Snack: unsalted nuts + fresh fruit
+Dinner: broth-based stew + light stir-fried tofu / chicken + whole grains"
+56,9,90,3,65,10000,89.33333333333333,0,0,"Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables","Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables"
+56,9,90,3,65,10000,89.33333333333333,0,0,"Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables","Breakfast: sandwich + eggs
+Lunch: soup-based
+Snack: nuts + banana
+Dinner:	pasta + vegetables"
+57,9,75,3,68,7000,110.0,2,1,"Breakfast: whole-grain toast / multigrain porridge + scrambled eggs / soft-boiled egg
+Lunch: grilled fish + steamed vegetables + brown rice
+Snack: unsalted nuts + fresh fruit
+Dinner: broth-based stew + light stir-fried tofu / chicken + whole grains","Breakfast: whole-grain toast / multigrain porridge + scrambled eggs / soft-boiled egg
+Lunch: grilled fish + steamed vegetables + brown rice
+Snack: unsalted nuts + fresh fruit
+Dinner: broth-based stew + light stir-fried tofu / chicken + whole grains"
+57,9,75,3,68,7000,110.0,2,1,"Breakfast: whole-grain toast / multigrain porridge + scrambled eggs / soft-boiled egg
+Lunch: grilled fish + steamed vegetables + brown rice
+Snack: unsalted nuts + fresh fruit
+Dinner: broth-based stew + light stir-fried tofu / chicken + whole grains","Breakfast: whole-grain toast / multigrain porridge + scrambled eggs / soft-boiled egg
+Lunch: grilled fish + steamed vegetables + brown rice
+Snack: unsalted nuts + fresh fruit
+Dinner: broth-based stew + light stir-fried tofu / chicken + whole grains"
+57,9,75,3,68,7000,110.0,2,1,"Breakfast: whole-grain toast / multigrain porridge + scrambled eggs / soft-boiled egg
+Lunch: grilled fish + steamed vegetables + brown rice
+Snack: unsalted nuts + fresh fruit
+Dinner: broth-based stew + light stir-fried tofu / chicken + whole grains","Breakfast: whole-grain toast / multigrain porridge + scrambled eggs / soft-boiled egg
+Lunch: grilled fish + steamed vegetables + brown rice
+Snack: unsalted nuts + fresh fruit
+Dinner: broth-based stew + light stir-fried tofu / chicken + whole grains"
+57,9,75,3,68,7000,110.0,2,1,"Breakfast: whole-grain toast / multigrain porridge + scrambled eggs / soft-boiled egg
+Lunch: grilled fish + steamed vegetables + brown rice
+Snack: unsalted nuts + fresh fruit
+Dinner: broth-based stew + light stir-fried tofu / chicken + whole grains","Breakfast: whole-grain toast / multigrain porridge + scrambled eggs / soft-boiled egg
+Lunch: grilled fish + steamed vegetables + brown rice
+Snack: unsalted nuts + fresh fruit
+Dinner: broth-based stew + light stir-fried tofu / chicken + whole grains"
+57,9,75,3,68,7000,110.0,2,1,"Breakfast: whole-grain toast / multigrain porridge + scrambled eggs / soft-boiled egg
+Lunch: grilled fish + steamed vegetables + brown rice
+Snack: unsalted nuts + fresh fruit
+Dinner: broth-based stew + light stir-fried tofu / chicken + whole grains","Breakfast: whole-grain toast / multigrain porridge + scrambled eggs / soft-boiled egg
+Lunch: grilled fish + steamed vegetables + brown rice
+Snack: unsalted nuts + fresh fruit
+Dinner: broth-based stew + light stir-fried tofu / chicken + whole grains"
+57,9,75,3,68,7000,110.0,2,1,"Breakfast: whole-grain toast / multigrain porridge + scrambled eggs / soft-boiled egg
+Lunch: grilled fish + steamed vegetables + brown rice
+Snack: unsalted nuts + fresh fruit
+Dinner: broth-based stew + light stir-fried tofu / chicken + whole grains","Breakfast: whole-grain toast / multigrain porridge + scrambled eggs / soft-boiled egg
+Lunch: grilled fish + steamed vegetables + brown rice
+Snack: unsalted nuts + fresh fruit
+Dinner: broth-based stew + light stir-fried tofu / chicken + whole grains"
+57,9,75,3,68,7000,110.0,2,1,"Breakfast: whole-grain toast / multigrain porridge + scrambled eggs / soft-boiled egg
+Lunch: grilled fish + steamed vegetables + brown rice
+Snack: unsalted nuts + fresh fruit
+Dinner: broth-based stew + light stir-fried tofu / chicken + whole grains","Breakfast: whole-grain toast / multigrain porridge + scrambled eggs / soft-boiled egg
+Lunch: grilled fish + steamed vegetables + brown rice
+Snack: unsalted nuts + fresh fruit
+Dinner: broth-based stew + light stir-fried tofu / chicken + whole grains"
+57,9,75,3,68,7000,110.0,2,1,"Breakfast: whole-grain toast / multigrain porridge + scrambled eggs / soft-boiled egg
+Lunch: grilled fish + steamed vegetables + brown rice
+Snack: unsalted nuts + fresh fruit
+Dinner: broth-based stew + light stir-fried tofu / chicken + whole grains","Breakfast: whole-grain toast / multigrain porridge + scrambled eggs / soft-boiled egg
+Lunch: grilled fish + steamed vegetables + brown rice
+Snack: unsalted nuts + fresh fruit
+Dinner: broth-based stew + light stir-fried tofu / chicken + whole grains"
+57,9,75,3,68,7000,110.0,2,1,"Breakfast: whole-grain toast / multigrain porridge + scrambled eggs / soft-boiled egg
+Lunch: grilled fish + steamed vegetables + brown rice
+Snack: unsalted nuts + fresh fruit
+Dinner: broth-based stew + light stir-fried tofu / chicken + whole grains","Breakfast: whole-grain toast / multigrain porridge + scrambled eggs / soft-boiled egg
+Lunch: grilled fish + steamed vegetables + brown rice
+Snack: unsalted nuts + fresh fruit
+Dinner: broth-based stew + light stir-fried tofu / chicken + whole grains"
+58,9,75,3,68,7000,110.0,2,1,"Breakfast: whole-grain toast / multigrain porridge + scrambled eggs / soft-boiled egg
+Lunch: grilled fish + steamed vegetables + brown rice
+Snack: unsalted nuts + fresh fruit
+Dinner: broth-based stew + light stir-fried tofu / chicken + whole grains","Breakfast: whole-grain toast / multigrain porridge + scrambled eggs / soft-boiled egg
+Lunch: grilled fish + steamed vegetables + brown rice
+Snack: unsalted nuts + fresh fruit
+Dinner: broth-based stew + light stir-fried tofu / chicken + whole grains"
+58,9,75,3,68,7000,110.0,2,1,"Breakfast: whole-grain toast / multigrain porridge + scrambled eggs / soft-boiled egg
+Lunch: grilled fish + steamed vegetables + brown rice
+Snack: unsalted nuts + fresh fruit
+Dinner: broth-based stew + light stir-fried tofu / chicken + whole grains","Breakfast: whole-grain toast / multigrain porridge + scrambled eggs / soft-boiled egg
+Lunch: grilled fish + steamed vegetables + brown rice
+Snack: unsalted nuts + fresh fruit
+Dinner: broth-based stew + light stir-fried tofu / chicken + whole grains"
+58,9,75,3,68,7000,110.0,2,1,"Breakfast: whole-grain toast / multigrain porridge + scrambled eggs / soft-boiled egg
+Lunch: grilled fish + steamed vegetables + brown rice
+Snack: unsalted nuts + fresh fruit
+Dinner: broth-based stew + light stir-fried tofu / chicken + whole grains","Breakfast: whole-grain toast / multigrain porridge + scrambled eggs / soft-boiled egg
+Lunch: grilled fish + steamed vegetables + brown rice
+Snack: unsalted nuts + fresh fruit
+Dinner: broth-based stew + light stir-fried tofu / chicken + whole grains"
+58,9,75,3,68,7000,110.0,2,1,"Breakfast: whole-grain toast / multigrain porridge + scrambled eggs / soft-boiled egg
+Lunch: grilled fish + steamed vegetables + brown rice
+Snack: unsalted nuts + fresh fruit
+Dinner: broth-based stew + light stir-fried tofu / chicken + whole grains","Breakfast: whole-grain toast / multigrain porridge + scrambled eggs / soft-boiled egg
+Lunch: grilled fish + steamed vegetables + brown rice
+Snack: unsalted nuts + fresh fruit
+Dinner: broth-based stew + light stir-fried tofu / chicken + whole grains"
+58,9,75,3,68,7000,110.0,2,1,"Breakfast: whole-grain toast / multigrain porridge + scrambled eggs / soft-boiled egg
+Lunch: grilled fish + steamed vegetables + brown rice
+Snack: unsalted nuts + fresh fruit
+Dinner: broth-based stew + light stir-fried tofu / chicken + whole grains","Breakfast: whole-grain toast / multigrain porridge + scrambled eggs / soft-boiled egg
+Lunch: grilled fish + steamed vegetables + brown rice
+Snack: unsalted nuts + fresh fruit
+Dinner: broth-based stew + light stir-fried tofu / chicken + whole grains"
+58,9,75,3,68,7000,110.0,2,1,"Breakfast: whole-grain toast / multigrain porridge + scrambled eggs / soft-boiled egg
+Lunch: grilled fish + steamed vegetables + brown rice
+Snack: unsalted nuts + fresh fruit
+Dinner: broth-based stew + light stir-fried tofu / chicken + whole grains","Breakfast: whole-grain toast / multigrain porridge + scrambled eggs / soft-boiled egg
+Lunch: grilled fish + steamed vegetables + brown rice
+Snack: unsalted nuts + fresh fruit
+Dinner: broth-based stew + light stir-fried tofu / chicken + whole grains"
+59,9,75,3,68,7000,110.0,2,1,"Breakfast: whole-grain toast / multigrain porridge + scrambled eggs / soft-boiled egg
+Lunch: grilled fish + steamed vegetables + brown rice
+Snack: unsalted nuts + fresh fruit
+Dinner: broth-based stew + light stir-fried tofu / chicken + whole grains","Breakfast: whole-grain toast / multigrain porridge + scrambled eggs / soft-boiled egg
+Lunch: grilled fish + steamed vegetables + brown rice
+Snack: unsalted nuts + fresh fruit
+Dinner: broth-based stew + light stir-fried tofu / chicken + whole grains"
+59,9,75,3,68,7000,110.0,2,1,"Breakfast: whole-grain toast / multigrain porridge + scrambled eggs / soft-boiled egg
+Lunch: grilled fish + steamed vegetables + brown rice
+Snack: unsalted nuts + fresh fruit
+Dinner: broth-based stew + light stir-fried tofu / chicken + whole grains","Breakfast: whole-grain toast / multigrain porridge + scrambled eggs / soft-boiled egg
+Lunch: grilled fish + steamed vegetables + brown rice
+Snack: unsalted nuts + fresh fruit
+Dinner: broth-based stew + light stir-fried tofu / chicken + whole grains"
+59,9,75,3,68,7000,110.0,2,1,"Breakfast: whole-grain toast / multigrain porridge + scrambled eggs / soft-boiled egg
+Lunch: grilled fish + steamed vegetables + brown rice
+Snack: unsalted nuts + fresh fruit
+Dinner: broth-based stew + light stir-fried tofu / chicken + whole grains","Breakfast: whole-grain toast / multigrain porridge + scrambled eggs / soft-boiled egg
+Lunch: grilled fish + steamed vegetables + brown rice
+Snack: unsalted nuts + fresh fruit
+Dinner: broth-based stew + light stir-fried tofu / chicken + whole grains"
+59,9,75,3,68,7000,110.0,2,1,"Breakfast: whole-grain toast / multigrain porridge + scrambled eggs / soft-boiled egg
+Lunch: grilled fish + steamed vegetables + brown rice
+Snack: unsalted nuts + fresh fruit
+Dinner: broth-based stew + light stir-fried tofu / chicken + whole grains","Breakfast: whole-grain toast / multigrain porridge + scrambled eggs / soft-boiled egg
+Lunch: grilled fish + steamed vegetables + brown rice
+Snack: unsalted nuts + fresh fruit
+Dinner: broth-based stew + light stir-fried tofu / chicken + whole grains"
+59,9,75,3,68,7000,110.0,2,1,"Breakfast: whole-grain toast / multigrain porridge + scrambled eggs / soft-boiled egg
+Lunch: grilled fish + steamed vegetables + brown rice
+Snack: unsalted nuts + fresh fruit
+Dinner: broth-based stew + light stir-fried tofu / chicken + whole grains","Breakfast: whole-grain toast / multigrain porridge + scrambled eggs / soft-boiled egg
+Lunch: grilled fish + steamed vegetables + brown rice
+Snack: unsalted nuts + fresh fruit
+Dinner: broth-based stew + light stir-fried tofu / chicken + whole grains"
+59,9,75,3,68,7000,110.0,2,1,"Breakfast: whole-grain toast / multigrain porridge + scrambled eggs / soft-boiled egg
+Lunch: grilled fish + steamed vegetables + brown rice
+Snack: unsalted nuts + fresh fruit
+Dinner: broth-based stew + light stir-fried tofu / chicken + whole grains","Breakfast: whole-grain toast / multigrain porridge + scrambled eggs / soft-boiled egg
+Lunch: grilled fish + steamed vegetables + brown rice
+Snack: unsalted nuts + fresh fruit
+Dinner: broth-based stew + light stir-fried tofu / chicken + whole grains"
+59,9,75,3,68,7000,110.0,2,1,"Breakfast: whole-grain toast / multigrain porridge + scrambled eggs / soft-boiled egg
+Lunch: grilled fish + steamed vegetables + brown rice
+Snack: unsalted nuts + fresh fruit
+Dinner: broth-based stew + light stir-fried tofu / chicken + whole grains","Breakfast: whole-grain toast / multigrain porridge + scrambled eggs / soft-boiled egg
+Lunch: grilled fish + steamed vegetables + brown rice
+Snack: unsalted nuts + fresh fruit
+Dinner: broth-based stew + light stir-fried tofu / chicken + whole grains"
+59,9,75,3,68,7000,110.0,2,1,"Breakfast: whole-grain toast / multigrain porridge + scrambled eggs / soft-boiled egg
+Lunch: grilled fish + steamed vegetables + brown rice
+Snack: unsalted nuts + fresh fruit
+Dinner: broth-based stew + light stir-fried tofu / chicken + whole grains","Breakfast: whole-grain toast / multigrain porridge + scrambled eggs / soft-boiled egg
+Lunch: grilled fish + steamed vegetables + brown rice
+Snack: unsalted nuts + fresh fruit
+Dinner: broth-based stew + light stir-fried tofu / chicken + whole grains"
+59,9,75,3,68,7000,110.0,2,1,"Breakfast: whole-grain toast / multigrain porridge + scrambled eggs / soft-boiled egg
+Lunch: grilled fish + steamed vegetables + brown rice
+Snack: unsalted nuts + fresh fruit
+Dinner: broth-based stew + light stir-fried tofu / chicken + whole grains","Breakfast: whole-grain toast / multigrain porridge + scrambled eggs / soft-boiled egg
+Lunch: grilled fish + steamed vegetables + brown rice
+Snack: unsalted nuts + fresh fruit
+Dinner: broth-based stew + light stir-fried tofu / chicken + whole grains"
+59,9,75,3,68,7000,110.0,2,1,"Breakfast: whole-grain toast / multigrain porridge + scrambled eggs / soft-boiled egg
+Lunch: grilled fish + steamed vegetables + brown rice
+Snack: unsalted nuts + fresh fruit
+Dinner: broth-based stew + light stir-fried tofu / chicken + whole grains","Breakfast: whole-grain toast / multigrain porridge + scrambled eggs / soft-boiled egg
+Lunch: grilled fish + steamed vegetables + brown rice
+Snack: unsalted nuts + fresh fruit
+Dinner: broth-based stew + light stir-fried tofu / chicken + whole grains"
+59,9,75,3,68,7000,110.0,2,1,"Breakfast: whole-grain toast / multigrain porridge + scrambled eggs / soft-boiled egg
+Lunch: grilled fish + steamed vegetables + brown rice
+Snack: unsalted nuts + fresh fruit
+Dinner: broth-based stew + light stir-fried tofu / chicken + whole grains","Breakfast: whole-grain toast / multigrain porridge + scrambled eggs / soft-boiled egg
+Lunch: grilled fish + steamed vegetables + brown rice
+Snack: unsalted nuts + fresh fruit
+Dinner: broth-based stew + light stir-fried tofu / chicken + whole grains"
+59,9,75,3,68,7000,110.0,2,1,"Breakfast: whole-grain toast / multigrain porridge + scrambled eggs / soft-boiled egg
+Lunch: grilled fish + steamed vegetables + brown rice
+Snack: unsalted nuts + fresh fruit
+Dinner: broth-based stew + light stir-fried tofu / chicken + whole grains","Breakfast: whole-grain toast / multigrain porridge + scrambled eggs / soft-boiled egg
+Lunch: grilled fish + steamed vegetables + brown rice
+Snack: unsalted nuts + fresh fruit
+Dinner: broth-based stew + light stir-fried tofu / chicken + whole grains"
+59,9,75,3,68,7000,110.0,2,1,"Breakfast: whole-grain toast / multigrain porridge + scrambled eggs / soft-boiled egg
+Lunch: grilled fish + steamed vegetables + brown rice
+Snack: unsalted nuts + fresh fruit
+Dinner: broth-based stew + light stir-fried tofu / chicken + whole grains","Breakfast: whole-grain toast / multigrain porridge + scrambled eggs / soft-boiled egg
+Lunch: grilled fish + steamed vegetables + brown rice
+Snack: unsalted nuts + fresh fruit
+Dinner: broth-based stew + light stir-fried tofu / chicken + whole grains"
+59,9,75,3,68,7000,110.0,2,1,"Breakfast: whole-grain toast / multigrain porridge + scrambled eggs / soft-boiled egg
+Lunch: grilled fish + steamed vegetables + brown rice
+Snack: unsalted nuts + fresh fruit
+Dinner: broth-based stew + light stir-fried tofu / chicken + whole grains","Breakfast: whole-grain toast / multigrain porridge + scrambled eggs / soft-boiled egg
+Lunch: grilled fish + steamed vegetables + brown rice
+Snack: unsalted nuts + fresh fruit
+Dinner: broth-based stew + light stir-fried tofu / chicken + whole grains"
+59,9,75,3,68,7000,110.0,2,1,"Breakfast: whole-grain toast / multigrain porridge + scrambled eggs / soft-boiled egg
+Lunch: grilled fish + steamed vegetables + brown rice
+Snack: unsalted nuts + fresh fruit
+Dinner: broth-based stew + light stir-fried tofu / chicken + whole grains","Breakfast: whole-grain toast / multigrain porridge + scrambled eggs / soft-boiled egg
+Lunch: grilled fish + steamed vegetables + brown rice
+Snack: unsalted nuts + fresh fruit
+Dinner: broth-based stew + light stir-fried tofu / chicken + whole grains"
+59,9,75,3,68,7000,110.0,2,1,"Breakfast: whole-grain toast / multigrain porridge + scrambled eggs / soft-boiled egg
+Lunch: grilled fish + steamed vegetables + brown rice
+Snack: unsalted nuts + fresh fruit
+Dinner: broth-based stew + light stir-fried tofu / chicken + whole grains","Breakfast: whole-grain toast / multigrain porridge + scrambled eggs / soft-boiled egg
+Lunch: grilled fish + steamed vegetables + brown rice
+Snack: unsalted nuts + fresh fruit
+Dinner: broth-based stew + light stir-fried tofu / chicken + whole grains"
